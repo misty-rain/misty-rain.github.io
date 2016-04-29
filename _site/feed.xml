@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">mistyrain</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2016-04-29T08:05:53+00:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://misty-rain.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://misty-rain.github.io" />
+<updated>2016-04-29T08:18:48+00:00</updated>
+<id>http://misty-rain.github.io/</id>
 <author>
   <name>wutao</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://misty-rain.github.io/</uri>
   <email>taowu78@gmail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[关于朴树]]></title>
-  <link>http://localhost:4000/life/guanyupushu</link>
-  <id>http://localhost:4000/life/guanyupushu</id>
+  <link>http://misty-rain.github.io/life/guanyupushu</link>
+  <id>http://misty-rain.github.io/life/guanyupushu</id>
   <published>2016-04-25T20:12:01+00:00</published>
   <updated>2016-04-25T20:12:01+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -80,19 +80,19 @@
 
 &lt;p&gt;后来听说朴树去西藏和尼泊尔采风了，回京后朴树长时间沉浸在西藏那圣洁纯真的情境中不能自拔，于6月份再次进藏。采风归来的朴树，脸上荡漾着洗礼过来的纯净笑容。相信这一次我们等待的时间不会太长了。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/guanyupushu&quot;&gt;关于朴树&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on April 25, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/guanyupushu&quot;&gt;关于朴树&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on April 25, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[一只抱大腿的电灯泡的西藏十五日游]]></title>
-  <link>http://localhost:4000/travel/xizang-you</link>
-  <id>http://localhost:4000/travel/xizang-you</id>
+  <link>http://misty-rain.github.io/travel/xizang-you</link>
+  <id>http://misty-rain.github.io/travel/xizang-you</id>
   <published>2013-10-08T17:29:00+00:00</published>
   <updated>2013-10-08T17:29:00+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -277,19 +277,19 @@
 
 &lt;p&gt;我不是旅游达人，作为一个毫无责任心的弱弱的抱大腿的灯泡儿，我一直在等我们队长和其他靠谱队员的游记，心里小算盘儿打着到时候点个大大的赞然后分享之就好啦，直到GR同学有天给我讲了“著名的发生在纽约的一件社区凶杀案件”，我才下定决心开始动笔。“故事发生在一个非常文明的高端小区，28户住户，在同一时间，目睹了一个杀人犯用刀杀死一个女孩。历时30多分钟，在这个过程女孩一直大声呼救，其中没有一个人打电话报警。因为大家都觉得别人会报警。”“dont let me die”她最后补了一句，所以才有了这篇流水记，如果我啰啰嗦嗦这么一大堆恰好给你的出行带来一点点帮助的话，那也不枉费GR一片苦口婆心了。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/travel/xizang-you&quot;&gt;一只抱大腿的电灯泡的西藏十五日游&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on October 08, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/travel/xizang-you&quot;&gt;一只抱大腿的电灯泡的西藏十五日游&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on October 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[今天我要讲一个关于她的还没有结束的故事]]></title>
-  <link>http://localhost:4000/life/her-story</link>
-  <id>http://localhost:4000/life/her-story</id>
+  <link>http://misty-rain.github.io/life/her-story</link>
+  <id>http://misty-rain.github.io/life/her-story</id>
   <published>2011-11-02T23:33:26+00:00</published>
   <updated>2011-11-02T23:33:26+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by : MuMu&lt;/p&gt;
@@ -366,19 +366,19 @@
 
 &lt;p&gt;如果你恰好也认识她，请拜托你拿起手机给她发条信息送一份祝福。如果你不认识她，没有关系，也请你拿起手机给你的她打个电话道一声问候。祝你的她，我的她都 晚安 好梦。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/her-story&quot;&gt;今天我要讲一个关于她的还没有结束的故事&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on November 02, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/her-story&quot;&gt;今天我要讲一个关于她的还没有结束的故事&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on November 02, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[柔软]]></title>
-  <link>http://localhost:4000/life/rouruan</link>
-  <id>http://localhost:4000/life/rouruan</id>
+  <link>http://misty-rain.github.io/life/rouruan</link>
+  <id>http://misty-rain.github.io/life/rouruan</id>
   <published>2011-08-28T21:51:30+00:00</published>
   <updated>2011-08-28T21:51:30+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: mumu&lt;/p&gt;
@@ -409,36 +409,36 @@
 
 &lt;p&gt;————这是“柔软”的台词 部分是被删掉的了 我没去看过 估计即使看了以自己这样线性的大脑和思维也是无法理解的 就像当年的犀牛一样；也不是想拿文艺的皮儿来掩盖自己的流氓本质 像小涂讲这是盖不住的了-_-!!!只是觉得有些喜欢的调调儿在里面 记在这儿 一是让更多的人看到 二是以后自己找起来也方便&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/rouruan&quot;&gt;柔软&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on August 28, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/rouruan&quot;&gt;柔软&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on August 28, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[雨 打雷]]></title>
-  <link>http://localhost:4000/life/rain</link>
-  <id>http://localhost:4000/life/rain</id>
+  <link>http://misty-rain.github.io/life/rain</link>
+  <id>http://misty-rain.github.io/life/rain</id>
   <published>2011-07-16T22:28:01+00:00</published>
   <updated>2011-07-16T22:28:01+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;于是就把窗子关上，拉上窗帘，闷是稍有些的，但是这样至少世界都安静了。说下雨是天与地的交媾，创造了万物。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/rain&quot;&gt;雨 打雷&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on July 16, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/rain&quot;&gt;雨 打雷&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on July 16, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[周末小结之关于艺术]]></title>
-  <link>http://localhost:4000/life/zhoumoxiaojie-yishu</link>
-  <id>http://localhost:4000/life/zhoumoxiaojie-yishu</id>
+  <link>http://misty-rain.github.io/life/zhoumoxiaojie-yishu</link>
+  <id>http://misty-rain.github.io/life/zhoumoxiaojie-yishu</id>
   <published>2011-04-19T17:14:53+00:00</published>
   <updated>2011-04-19T17:14:53+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -456,19 +456,19 @@
 &lt;p&gt;除此之外，我还曾因为长了一副XXXL的大手可以轻松跨八度，在骁尧姐姐的诱惑下跑去练钢琴，finally是还没等左右手配合利索就又一次放弃了…
 为此，我常常担忧对自己都这样三分钟热度没有定力以后怎么管教小孩子呢？！&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/zhoumoxiaojie-yishu&quot;&gt;周末小结之关于艺术&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on April 19, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/zhoumoxiaojie-yishu&quot;&gt;周末小结之关于艺术&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on April 19, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[开天窗]]></title>
-  <link>http://localhost:4000/life/kai-tian-chuang</link>
-  <id>http://localhost:4000/life/kai-tian-chuang</id>
+  <link>http://misty-rain.github.io/life/kai-tian-chuang</link>
+  <id>http://misty-rain.github.io/life/kai-tian-chuang</id>
   <published>2011-03-12T23:16:34+00:00</published>
   <updated>2011-03-12T23:16:34+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;By: MuMu&lt;/p&gt;
@@ -497,19 +497,19 @@
 
 &lt;p&gt;没有风的时候那就让我开开天窗&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/kai-tian-chuang&quot;&gt;开天窗&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on March 12, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/kai-tian-chuang&quot;&gt;开天窗&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on March 12, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[我想]]></title>
-  <link>http://localhost:4000/dream/wo-xiang</link>
-  <id>http://localhost:4000/dream/wo-xiang</id>
+  <link>http://misty-rain.github.io/dream/wo-xiang</link>
+  <id>http://misty-rain.github.io/dream/wo-xiang</id>
   <published>2010-08-25T18:40:58+00:00</published>
   <updated>2010-08-25T18:40:58+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;By: MuMu&lt;/p&gt;
@@ -562,19 +562,19 @@
 
 &lt;p&gt;一个会写程序的冰糖&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/dream/wo-xiang&quot;&gt;我想&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on August 25, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/dream/wo-xiang&quot;&gt;我想&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on August 25, 2010.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[万说]]></title>
-  <link>http://localhost:4000/life/wan-shuo</link>
-  <id>http://localhost:4000/life/wan-shuo</id>
+  <link>http://misty-rain.github.io/life/wan-shuo</link>
+  <id>http://misty-rain.github.io/life/wan-shuo</id>
   <published>2010-08-07T21:30:09+00:00</published>
   <updated>2010-08-07T21:30:09+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;By: MuMu+Wan&lt;/p&gt;
@@ -583,19 +583,19 @@
 
 &lt;p&gt;。。。自信心严重丧失的木表示内流满面。。。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/wan-shuo&quot;&gt;万说&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on August 07, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/wan-shuo&quot;&gt;万说&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on August 07, 2010.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[灵性]]></title>
-  <link>http://localhost:4000/life/lingxing</link>
-  <id>http://localhost:4000/life/lingxing</id>
+  <link>http://misty-rain.github.io/life/lingxing</link>
+  <id>http://misty-rain.github.io/life/lingxing</id>
   <published>2009-12-19T01:06:44+00:00</published>
   <updated>2009-12-19T01:06:44+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -616,19 +616,19 @@
 
 &lt;p&gt;p.s.: 按农历算本木跟纳兰兄还是同一天的生日！小激动下&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/lingxing&quot;&gt;灵性&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on December 19, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/lingxing&quot;&gt;灵性&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on December 19, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[关于目送]]></title>
-  <link>http://localhost:4000/life/musong</link>
-  <id>http://localhost:4000/life/musong</id>
+  <link>http://misty-rain.github.io/life/musong</link>
+  <id>http://misty-rain.github.io/life/musong</id>
   <published>2009-10-29T23:22:59+00:00</published>
   <updated>2009-10-29T23:22:59+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -647,19 +647,19 @@
 
 &lt;p&gt;感谢老妈。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/musong&quot;&gt;关于目送&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on October 29, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/musong&quot;&gt;关于目送&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on October 29, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[纪念日]]></title>
-  <link>http://localhost:4000/life/jinianri</link>
-  <id>http://localhost:4000/life/jinianri</id>
+  <link>http://misty-rain.github.io/life/jinianri</link>
+  <id>http://misty-rain.github.io/life/jinianri</id>
   <published>2009-04-23T21:36:58+00:00</published>
   <updated>2009-04-23T21:36:58+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -694,19 +694,19 @@
 
 &lt;p&gt;六年&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/jinianri&quot;&gt;纪念日&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on April 23, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/jinianri&quot;&gt;纪念日&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on April 23, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[一架钢琴的时间]]></title>
-  <link>http://localhost:4000/life/yijiagangqindeshijian</link>
-  <id>http://localhost:4000/life/yijiagangqindeshijian</id>
+  <link>http://misty-rain.github.io/life/yijiagangqindeshijian</link>
+  <id>http://misty-rain.github.io/life/yijiagangqindeshijian</id>
   <published>2009-04-23T12:33:43+00:00</published>
   <updated>2009-04-23T12:33:43+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -719,19 +719,19 @@
 
 &lt;p&gt;有时候会后悔出来。留下，可以跟云一起调板板每周跑回创新放片子去q家吃小龟做的饭跟万去西站阿福的排练室里长长眼…但是我却出来了，我总是这样，所以总是没有归属感。越长大越发感觉没有什么地方是我的，shh不是，jn也不是，从小待过的每个地方，总有很多地方我没去过，从小到大接触到的圈子，总有很多事情我不知道。04innoers是我的圈子我的地方，但是我却出来了，或许我真的应该在一个地方待的时间久一些，或许这架钢琴的时间并不是像我之前想象的那样白白浪费掉，我喜欢大家在一起，我应该多花时间跟大家在一起。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/yijiagangqindeshijian&quot;&gt;一架钢琴的时间&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on April 23, 2009.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/yijiagangqindeshijian&quot;&gt;一架钢琴的时间&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on April 23, 2009.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[和自己斗争]]></title>
-  <link>http://localhost:4000/life/hezijidedouzheng</link>
-  <id>http://localhost:4000/life/hezijidedouzheng</id>
+  <link>http://misty-rain.github.io/life/hezijidedouzheng</link>
+  <id>http://misty-rain.github.io/life/hezijidedouzheng</id>
   <published>2008-01-01T00:30:58+00:00</published>
   <updated>2008-01-01T00:30:58+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://misty-rain.github.io</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -828,7 +828,7 @@
 
 &lt;p&gt;继续和自己斗争&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/hezijidedouzheng&quot;&gt;和自己斗争&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on January 01, 2008.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://misty-rain.github.io/life/hezijidedouzheng&quot;&gt;和自己斗争&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://misty-rain.github.io&quot;&gt;mistyrain&lt;/a&gt; on January 01, 2008.&lt;/p&gt;</content>
 </entry>
 
 </feed>

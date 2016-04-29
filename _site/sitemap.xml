@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      
     <url>
-        <loc>http://localhost:4000/categories</loc>
+        <loc>http://misty-rain.github.io/categories</loc>
     </url> 
     <url>
-        <loc>http://localhost:4000/tags</loc>
+        <loc>http://misty-rain.github.io/tags</loc>
     </url> 
     <url>
-        <loc>http://localhost:4000/ruixinxu</loc>
+        <loc>http://misty-rain.github.io/ruixinxu</loc>
     </url>
     
     
     <url>
-        <loc>http://localhost:4000/life/guanyupushu</loc>
+        <loc>http://misty-rain.github.io/life/guanyupushu</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/travel/xizang-you</loc>
+        <loc>http://misty-rain.github.io/travel/xizang-you</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/her-story</loc>
+        <loc>http://misty-rain.github.io/life/her-story</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/rouruan</loc>
+        <loc>http://misty-rain.github.io/life/rouruan</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/rain</loc>
+        <loc>http://misty-rain.github.io/life/rain</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/zhoumoxiaojie-yishu</loc>
+        <loc>http://misty-rain.github.io/life/zhoumoxiaojie-yishu</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/kai-tian-chuang</loc>
+        <loc>http://misty-rain.github.io/life/kai-tian-chuang</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/dream/wo-xiang</loc>
+        <loc>http://misty-rain.github.io/dream/wo-xiang</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/wan-shuo</loc>
+        <loc>http://misty-rain.github.io/life/wan-shuo</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/lingxing</loc>
+        <loc>http://misty-rain.github.io/life/lingxing</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/musong</loc>
+        <loc>http://misty-rain.github.io/life/musong</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/jinianri</loc>
+        <loc>http://misty-rain.github.io/life/jinianri</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/yijiagangqindeshijian</loc>
+        <loc>http://misty-rain.github.io/life/yijiagangqindeshijian</loc>
     </url>
     
     <url>
-        <loc>http://localhost:4000/life/hezijidedouzheng</loc>
+        <loc>http://misty-rain.github.io/life/hezijidedouzheng</loc>
     </url>
     
 </urlset>
