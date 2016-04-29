@@ -2,11 +2,13 @@
 layout: post
 type: blog
 title:  "关于朴树"
-date:   2007-12-02 20:12:01
-categories: ruxu-life
-tags: [ruxu-life]
+description: "Think big， but do small"
+date:   2016-04-25 20:12:01
+categories: life
+tags: [物语]
 
 comments: true
+featured: true
 share: true
 ---
 by: MuMu

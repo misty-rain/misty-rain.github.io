@@ -3,8 +3,8 @@ layout: post
 type: blog
 title:  "纪念日"
 date:   2009-04-23 21:36:58
-categories: ruxu-life
-tags: [ruxu-life]
+categories: life
+tags: [时光里]
 
 comments: true
 share: true

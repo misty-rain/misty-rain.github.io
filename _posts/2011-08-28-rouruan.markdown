@@ -2,8 +2,8 @@
 layout: post
 title:  "柔软"
 date:   2011-08-28 21:51:30
-categories: ruxu-life
-tags: [ruxu-life]
+categories: life
+tags: [物语]
 
 comments: true
 share: true

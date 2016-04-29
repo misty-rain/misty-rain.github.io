@@ -3,8 +3,8 @@ layout: post
 type: blog
 title:  "关于目送"
 date:   2009-10-29 23:22:59
-categories: ruxu-reading
-tags: [ruxu-reading]
+categories: life
+tags: [思考]
 
 comments: true
 share: true

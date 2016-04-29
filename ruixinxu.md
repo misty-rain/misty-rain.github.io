@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /ruixinxu/
-title: Ruixin Xu
-tags: 
+title: Mistyrain
+tags:
 image:
   feature: bobreading.jpg
 ---
@@ -13,4 +13,4 @@ image:
 
 Booklover
 
-ruixin.xu@Gmail.com
+taowu78@Gmail.com

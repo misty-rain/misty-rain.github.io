@@ -3,8 +3,8 @@ layout: post
 type: blog
 title:  "一架钢琴的时间"
 date:   2009-04-23 12:33:43
-categories: ruxu-life
-tags: [ruxu-life]
+categories: life
+tags: [时光里]
 
 comments: true
 share: true

@@ -3,8 +3,8 @@ layout: post
 type: blog
 title:  "开天窗"
 date:   2011-03-12 23:16:34
-categories: ruxu-life
-tags: [ruxu-life]
+categories: life
+tags: [思考]
 
 comments: true
 share: true

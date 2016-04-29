@@ -2,193 +2,97 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">mistyrain</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://ruxubooks.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://ruxubooks.com" />
-<updated>2016-04-28T09:17:52+00:00</updated>
-<id>http://ruxubooks.com/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2016-04-29T08:05:53+00:00</updated>
+<id>http://localhost:4000/</id>
 <author>
   <name>wutao</name>
-  <uri>http://ruxubooks.com/</uri>
+  <uri>http://localhost:4000/</uri>
   <email>taowu78@gmail.com</email>
 </author>
 
 
 <entry>
-  <title type="html"><![CDATA[出坡县记]]></title>
-  <link>http://ruxubooks.com/ruxu-life/singapore</link>
-  <id>http://ruxubooks.com/ruxu-life/singapore</id>
-  <published>2015-10-26T22:39:00+00:00</published>
-  <updated>2015-10-26T22:39:00+00:00</updated>
+  <title type="html"><![CDATA[关于朴树]]></title>
+  <link>http://localhost:4000/life/guanyupushu</link>
+  <id>http://localhost:4000/life/guanyupushu</id>
+  <published>2016-04-25T20:12:01+00:00</published>
+  <updated>2016-04-25T20:12:01+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: Mumu&lt;/p&gt;
-
-&lt;p&gt;过去这几个月有好多次想写些什么，但是迟迟没有动笔，当然是因为我懒。杂七杂八的借口自然是有一大堆了，离开北京之前着急忙慌搬家见朋友道别，来到新加坡之后又着急忙慌要跟上节奏唯恐耽误了谁和谁的要求，到头来那些曾闪现的小情小绪也在岁月之中难辨真假了。不知道从何写起。近日坡县进入雨季，连日大雨驱走了笼罩数周的印尼烧芭霾，夜里突然转凉，猝不及防的我开始鼻涕横流，在床上躺了一天，却也因此得了空来清理下这积压的流水账。&lt;/p&gt;
-
-&lt;p&gt;想不出从什么时候起周围的朋友都在准备往外走，为了和爱人团聚的，为了下一代的，为了做得更高精尖的，为了更快积累财富的…年初大家一起聊起来问我想不想走的时候我还是一脸的坚定“我不去呀，我在整牙，北京离家近可以常回去看看爸妈，而且我们cosmos马上要对外public release了呢！” 那会儿谁也没想到没过几个月我竟然也撤离了北京。尽管冬天每每早起开扯皮会时窗外的阴霾天让人绝望地想逃离，但真正动了要离开的念头大约是三八节实验室的饭局上，bo老师把我赖着不走的理由一一击毙“整牙可以出去接着整啊…爸妈过几年会更需要你…public release之前之后对你差别真的很大么？“有了念头之后工作上便提不起精神，三月底送走张同学，心情跌落到谷底，打电话给淼晶，讲着讲着就憋不住哭了出来，一成不变的日子被我越过越拧巴，是时候该改变一下了。&lt;/p&gt;
-
-&lt;p&gt;要改变的话方式有很多，许多人问我为什么想到新加坡来，其实最初我只是想找个暖和的地方过个冬。考虑到新加坡社会治安不错，公共设施齐全，室长和liqi同学在。又恰好有做图像检索的创业公司在找pm，职位描述跟我过去的经历match的很，简直就是量身定做，非常擅于打比方的安吉拉说“好像是从大游轮跳到一只皮筏艇上”，不知会遇到怎样的风浪，但是对于一出海就在大船上晃悠的人来说，未曾体会过的小船上的经历是那么的吸引人。于是我按耐不住地想试一试。&lt;/p&gt;
-
-&lt;p&gt;尽管心里已经有了倾向，在最终决定之前还是找好些人聊了聊。聂老师上来劈头就问“还找不找对象啦？！”；爽姐姐提醒我说“创业公司也有创业公司的问题，如果最终还是想去大公司的话，这段经历不见得比待在微软或者换家大公司更好”；丁core鼓励说“你要是男生的话我会劝你仔细考虑考虑，女生嘛，反正以后结婚生娃事业上也会被打断，想试就试试呗”；sun直截了当“创业公司要啥pm啊，ceo就该自己搞定了嘛，你知道的我一向不buy in pm这个role的，我的公司以后也不会有pm…”；队长质疑说“跑新加坡去？背井离乡的…知道为啥东南亚没有大的互联网公司么？本地市场太小，打外面市场又太远很难接地气…”；zhiwei了解完情况说“我觉得可以试一试，新加坡政府蛮鼓励科技创业，又是个技术性导向的公司，可以学到东西就好啦，实在不行就回北京呗，不怕没工作，只是你这一走o大大要伤心了…”；出差时候和Ying夫妇还有dj聊起来也感慨，能有机会做cosmos这样潜力股的项目是挺难得的，四年没换项目没换组在微软更实属不易，这些积累说放弃就放弃其实蛮可惜的，“更别提pm transfer去美国绿卡排队都比一般开发要快，哎，你要不transfer过来排了绿卡再去加州找个startup呗。”；O大大深谙我的终极人生理想是当妈妈并把自己的经验传递给我家娃，在掰扯了一个多少小时选择与未来之后他发信息说“The more I think about it the less I think it is a good idea to go for this startup, having deeper experience in your field will give you more knowledge to share with your kids as well and to help advise them.” 这牌打得真是直抵我心，后来有一天和巴哈伊小分队吃麻辣香锅，谈到生活经历对孩子们的影响，那一幕说不同地方的生活经历会不自觉的刻入到一个人的性格当中，像是后天基因一样，即使是已经成年的人。所以既然自己想去到不同的地方，那不如就去喽，谁也说不好对自己对未来会有什么样的影响。&lt;/p&gt;
-
-&lt;p&gt;当然还有父母，一句“父母在，不远游”不知平添了多少远行孩子心中的愧疚，近些年开始有声音跳出来说单看这六个字其实是对原文的断章取义，全文是“父母在，不远游，游必有方。” 是说离开可以，但是必须给父母一个交代，去哪里去做什么几时回来，勿让他们空挂念。聂老师当年离开微软去大鱼他妈妈仨月没理他，bo老师回国创业时也被父母质问“要你博士去干啥”，所以和父母讲之前我已经做好心理准备这关是不好过的，然而相比之下，他们简直太开明了。老妈给我充分的信任和支持让我自己做决定，老爸抛出一连串的犀利问题，我一一解释后，他喃喃道“我还是觉得没有这个必要，现在不是已经挺好的么？”我明白对护女心切的老徐来讲，不跳脚反对就已经是莫大的支持了。HP和AGL说徐木木你看你大可不必担心哪种选择会对你家娃更好，因为他们长大会自己做选择，根本不会听你的。&lt;/p&gt;
-
-&lt;p&gt;特别感谢这些建议、质疑和分析，让我看到许多之前忽略的点，更加理性全面的考虑这个决定，反而更加坚定：时间是我唯一珍贵的筹码，时不我待，我必须直接去做我想做的事情，任何的拖延妥协和曲线救国都是在浪费生命。&lt;/p&gt;
-
-&lt;p&gt;我在望京漫咖啡的角落给姑娘们讲心路历程说到这里的时候，栅栅开玩笑说“果然是徐木木，我觉得生命就应该是用来浪费的”。趁我走之前，她和小蒋分别从昆明和无锡赶来北京，大家一起住在丛皓家，晚上排队洗澡，小蒋帮王晰弄头发，徐栅栅在擦油油，我在吃小八喜，丛皓很焦躁的走来走去，阿花就在一边温柔的笑着看大家，某个瞬间会觉得时光飞逝回到十年前的学十一楼，大家都还是曾经的样子。栅栅说她这次来北京之前和花哥哥讲以后徐木木回来大家还是可以见面的呀，花哥哥笑她太天真“木木以后回来多是回家探亲跟你有半毛钱关系”，好像自此一别以后再也见不到了一样，一下子感伤起来。&lt;/p&gt;
-
-&lt;p&gt;同样感伤的时刻还有和淼晶坐在西单路边的圆球球上吃冻酸奶，看着初夏街头来来往往的丝袜美腿大妞，他感叹道“连你都要离开北京了，我再回来还真是越过山丘已无人等候了呢”，然后说感情牌都打成这样了，许巍就不许放鸽子了吧。作为我文艺道路上的引路人，淼晶同学这几年一直在外兜兜转转，年初回北京准备毕业答辩，多了个人陪我看片扯皮我很开心。春天的北京电影节排了《爱在》三部曲，我拉他去看，排片出来的时候自己也傻了眼，连着三天晚上八九点开场，“简直是个体力活”，他面露难色很不情愿，我使出大招说当年毕业旅行借小冰箱给他带中药的情谊，“小冰箱你都搬出来了！那行吧，看你以后还有啥锦囊可用”，结果到第二天自己都有些倦了不想去了，第三天的时候北京起了沙尘，就像interstellar开场前那样，从鼎好走到中关村的十字路口已经被吹的一盆沙了，我说要不算了吧，他却坚持善始善终，我们顶着漫天风沙从北大东门晃悠到文慧园，当主持人感谢大家风沙夜里来捧场的时候，他在一边感慨道“这满场子得多少小冰箱啊”。所以五月初他喊我去听许巍，尽管对兴趣不大可还是不好不去酱油一下。出差前一夜在五棵松听许巍唱《旅行》：“总是要说再见／相聚又分离／总是走在漫长的路上…”可能是因为自己要走了，未来也不知道会怎样，竟也湿了眼眶。&lt;/p&gt;
-
-&lt;p&gt;第二天飞西雅图做新产品的usability study。这趟差出的很值，跟Ying夫妇厮混了一周，见到之前的小伙伴们并当面道别，意外偶遇俩EVP还有冰洁和窦师兄。唯一的遗憾是恰好和AC大叔的北京之行完全重叠，原本想当面和他告别也没能遂愿。我很感激AC大叔，对工作要求严格细致，汇报前帮我改PPT到凌晨，文字格式和语法错误都一一纠正。看到我开会时候不发言，他问“你知道first principal”么？多数人都对自己熟悉的话题滔滔不绝，他们可能未必真的在听对方说什么，争论不下的时候你抓住最最基本的问题来切入，可能就会推动讨论…“btw you should be more confident…you could do more”。他在长城上讲今天真不错，我说今天才刚过过了一半可能下半天会发生很糟糕的事情呢，然后他停下来很严肃的说你这样态度有问题“life is what happens to u while u r busy making other plans” 所以不要总担心还没发生的事情enjoy current moment…听到我说要离开微软他凶我一顿你搞毛呀，第二天又打电话过来说反思了一下觉得昨天自己反应太过激了“I want let you know you have my support”。&lt;/p&gt;
-
-&lt;p&gt;自己总觉得在微软的时候太幸运了，潜意识也想跳出来看看离开这些幸运的自己到底能有几斤几两。其实是很不成熟的想法。因为出来之后发现自己想摆脱掉的却是烙印最深的，最开始别人介绍我不说名字只讲“微软来的pm”，来面试的intern也直言翻了我的linkedin看我是“微软来的pm”。我爱微软，但我更爱open source。回头看这四个月，大多是在意料之中，除了小伙伴们纯真善良的让我意外。好像回到刚上班的那会儿，大家一起天天商量去哪里玩，要不要找个小岛装尸体，万圣节要不要去圣淘沙的鬼屋，天啊，鬼屋，上次去鬼屋还是高中时候的事情…一群人一起疯狂猜词，有人笑得在地上打滚，笑点低笑控能力差到让我震惊。还有室长和张老师，努力培养我做为灯泡林平的接班人，去哪里都带着我。&lt;/p&gt;
-
-&lt;p&gt;多数时候还是很开心的，只是父母是我的心结。当初决定要来的时候，老徐见我这样轴也只自己喃喃“我是觉得你没有这个必要去这么做”。那会儿奶奶病重，他照料奶奶已是焦头烂额，想来愧疚，我非但没有替他分忧反而回家跟他添忧，“给我两年的时间，两年过了我就回来结婚生娃，不折腾了，就这两年再让我折腾一下吧”。送我走的那天路上他妥协，“想去看看就去看吧，看够了就回来，也不用非得等到两年了”。我听了这话眼眶就湿了，想当年找工作十月份没有offer的时候给家里打电话说压力大的睡不着觉，老徐就说不怕没工作就回家我养你。后来看寿司之神，二郎对自立门户的二儿子说从此你无家可归了，意在激励儿子没有后路的勇往直前。有时候会想爸爸这样的宠溺会不会让我变得太软弱。爸爸有位很好的朋友姓商，也有个女儿跟我一般大，曾经和爸爸说你该鼓励她到处走而不是总想护她在自己的羽毛底下，我当时觉得商伯伯好懂我。五月份回家的时候听说商伯伯去世了，心脏病突发，我坐在沙发上哭成泪人，好害怕这样的事情发生。&lt;/p&gt;
-
-&lt;p&gt;八月份奶奶去世，我的爸爸没有妈妈了。回家奔丧，长这么大第一次参加丧礼，亲身参与到那些传统的风俗里，更加明白父亲身上背负的家族责任感，也更加清楚的看到自己的无用。当我们总在说要多去体验不同的异域文化的时候，自己对故土文化的认识理解又有多少呢？那些小时候被洗脑说是要杜绝的封建迷信包含了太多传统中国文化。可是我在这个面前是无力的，插入不进去的，读《陆犯焉识》通篇最触动我的就是“恩娘看着自己曾经看重的焉识却慢慢地说：焉识，真没想到，你读书读得这么没用场。中国是个啥地方？做学问做三分，做人做七分。外国的人要紧的是发明这种机器，发明那种机器，中国人呢，要紧的就是你跟我搞，我跟你斗。你不懂这个学问，在中国就是个没用场的人。”虽然偏激但是有种说不出的感同身受。&lt;/p&gt;
-
-&lt;p&gt;八月从家回来之后天天想家，作为十三岁就离家的我是始料不及的。重阳节时网络上疯传一个“你陪我长大，我陪你变老”的演讲视频，老徐发我，我看完泪流满面恨不得买张票就回家去。这些年独自在外，缺席了父母太多太多。有些时候夜里睡起来，会想自己在这里做什么呢，想到离父母很远不能参与到他们的日常生活里就很愧疚。也想过回家，可是总觉得是回不去的，“就像肉里有根刺，一碰就生疼，拔又拔不掉，就让它这样生在肉里，不再去碰触。可是我的心呢？到底在哪里，我很难说清楚。但心里的牵挂和愧疚是一直都有的。却不知自己该做些什么来弥补，就这样一直逃避，不触碰。”因此情绪波动又犯老毛病，自己窝着不说话不理人也不想让人理，把室长和张老师折磨的够呛。我在厨房里和室长讲这些事情的时候，好像是十几年前在家里厨房和我妈妈讲话。反思下真的觉得很像回到高中时候，叛逆不愿意回家不愿意和爸妈交流，可是心里又是挂念他们的。是的，从小就这么拧巴，跟在哪里也没有关系，原生家庭的印记一直都在。&lt;/p&gt;
-
-&lt;p&gt;至于怎么克服呢我也不知道，出坡县记也才刚刚开始，总在某些时候恍惚觉得时光轮回。多年前liqi就给我讲“我以为在东校的日子是我最开心的，但回忆起来还是觉得在新加坡读书的时候更爽，这里就像是一个大游乐场”。我们从cbd过city hall一路走到bugis，他说有没有错觉好像回到十几年前东校的操场上？他和朱姐姐过生日，蛋糕上面有两个小狮子，他一刀切到了狮子，我在一边乱叫“哎呀呀你怎么把狮子切坏了”，恍如昨日。&lt;/p&gt;
-
-&lt;p&gt;我也不知道未来会在哪里，会不会变得更好。只是相比几年前，我更加敬畏未来之不可知，唯有当下是重要的，发现自己日渐思旧成疾，与其天天惦记别处，不如过好眼下的每一天，权当给未来怀念备好些素材吧。&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/singapore&quot;&gt;出坡县记&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on October 26, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[安吉拉和徐木木]]></title>
-  <link>http://ruxubooks.com/ruxu-life/angela-and-xumumu</link>
-  <id>http://ruxubooks.com/ruxu-life/angela-and-xumumu</id>
-  <published>2015-06-27T04:43:00+00:00</published>
-  <updated>2015-06-27T04:43:00+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: Angela&lt;/p&gt;
-
-&lt;p&gt;我今天白天还在神采飞扬的跟别人讲徐木木是如何雷厉风行的决定辞职去坡国创业，晚上还开心的去健了身，临睡前还在想心灵鸡汤，决定把“to be a better me &amp;amp; 成为一个有趣的人”变成我的人生新理想，然后，我就想起了徐木木，想起她下周就要飞往坡国开启人生新篇章了。我这才意识到，这似乎是一个里程碑似的事件，类似大学毕业大家天各一方。&lt;/p&gt;
-
-&lt;p&gt;木木是谁？我觉得闺蜜不合适，因为我们几乎很少花时间逛街美甲聊时尚，木木不懂这些；我们更多的时候，是在聊天，就是那种走心的心灵按摩似的聊天，这种聊天发生在我们一起吃饭时，散步时，看电影后，看话剧后。。。常常，因为话题没有聊完，互相送来送去，难舍难分。所以，我们的关系，大概是战友，伙伴，一路陪伴走过初入社会和职场的时光。&lt;/p&gt;
-
-&lt;p&gt;第一次有印象的相遇，是在11年4月份的新员工offsite，她穿着一件红色丝绒外套，很大只，一头沙性头发自成造型。。。我才没有对她一见钟情
-之后，加了人人，看到她的空间经常更新，她写了篇日志 开天窗，我诧异到，这么大只的女生居然内心这么话痨，不应该是高冷透新类型的么？
-7月份入职后，我们这批新员工很兴奋很闹腾大概也很忐忑，建了一个新员工邮件群，时不时聚餐，k歌，开party，这个过程大概像一个算法不断收敛，收敛，渐渐趋于稳定，最终在这批新员工里，我们成为同一个小集团了。交集就此开始。有一次去三里屯k歌到半夜2点，我害怕一个人打车回家，就卖萌问她，我可以跟你回你家么？她目视前方眼神坚定的回答道，我可以打车送你回去。。。这答案完全出乎我意料，默默的在心里送了她顶“汉子”的帽子，而且是不解风情的汉子。&lt;/p&gt;
-
-&lt;p&gt;木木是水瓶座，思维跳跃，思考的点往往出人意料，常常是，我说我杀人不眨眼，她却问我眼睛干不干。我们聊一个首席科学家70岁了看起来像40多岁，她却问他本科不可能学的计算机吧，第一台计算机1965年才出现呢？点点点&lt;/p&gt;
-
-&lt;p&gt;木木是个不可思议的矛盾集合体。&lt;/p&gt;
-
-&lt;p&gt;比如，她理性而又超感性，作为一名焊得了电路板，调得了代码的纯正工科女，她拥有女特工般清晰的思维，能在一团模糊中杀出一条路，然而，她第一次在toastmaster上演讲，居然说她的人生梦想是当妈妈，点点点&lt;/p&gt;
-
-&lt;p&gt;再比如，她冷静而又抓狂，她常常面无表情一脸认真的坐在我对面，面对我的情绪而不顾，跟我讨论解决问题的方案，一转身她又一脸小女生模样说，安吉拉，我好烦躁，我该怎么办？&lt;/p&gt;
-
-&lt;p&gt;还比如，她不靠谱而又值得信赖，她常常放我鸽子，定好的吃饭，看电影，说不来就不来，理由大概是，有另外一拨人找她，插句话，木木有很多朋友，但绝大多数都是弱连接，只有少数是强连接。然而，木木听了我无数次抱怨恐婚，陪我挑了婚纱，参加我的婚礼当我的伴娘，还跟另外一个姑娘一起送我份厚礼当我的强势娘家人。&lt;/p&gt;
-
-&lt;p&gt;所以，木木对我而言，一直是一个神秘的无法预测的黑盒子，我还是不知道她下一句话会是什么。&lt;/p&gt;
-
-&lt;p&gt;在过去不长的日子里，我们一起做过许多事情，一起泡过温泉，捏过脚，看过海爬过山，跷班去看大雪后的故宫，去天津吃大饼鸡蛋，雾霾天暴走去地坛看银杏，带着草莓头盔去参加草莓音乐节，凌晨2点坐在jerry和ying的mini后座上经过天安门，头发被往前吹成鬼。。。原来有这么多的故事，那些个困惑的，迷茫的，没心没肺的，青春激昂的，奋不顾身的，互相依靠的日子啊！&lt;/p&gt;
-
-&lt;p&gt;木木问我，安吉拉，以后我们会不会渐行渐远？也许吧，朋友就像是人生旅途上的偶遇，总要分开旅行，我的下一个目的地是严寒，而你的则是酷暑，隔着太平洋的我们，也许会渐渐少了话题，然而我期望有一天，我们会再次相遇，带着过往所有分开旅行的回忆，试着互相分享，说不定我们还会互相喜欢。&lt;/p&gt;
-
-&lt;p&gt;想说，be a good girl，be kind。你会幸运，幸福，会遇到他，会成为一个超棒的妈妈，拥有你梦想的一切。我坚信你会幸福，超幸福，对，幸福即所有祝福。&lt;/p&gt;
-
-&lt;p&gt;然而，还是舍不得，地球上70亿人，而你那么独特，关键是，你拥有跟我的回忆呀。&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/angela-and-xumumu&quot;&gt;安吉拉和徐木木&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on June 27, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Be happy, if not, be crazy]]></title>
-  <link>http://ruxubooks.com/ruxu-life/be-happy-if-not-be-crazy</link>
-  <id>http://ruxubooks.com/ruxu-life/be-happy-if-not-be-crazy</id>
-  <published>2014-01-05T19:36:00+00:00</published>
-  <updated>2014-01-05T19:36:00+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
 
-&lt;p&gt;年中的时候，我以为今年会是我的ex年：ex的部门，ex的团队，ex的o老大还有ex的s。后来事实证明自己当初过于悲观了，老天爷还是很公平的，他在某个方面让你摔一跤一定会在另外一个方面补偿你。&lt;/p&gt;
+&lt;p&gt;我喜欢朴树，从很早之前，有很多人知道。&lt;/p&gt;
 
-&lt;p&gt;就像从未想过号称二十年来最大的一次重组会被我撞上一样，我也万万没有想到o老大会在最后一刻来了个大逆转——当所有人都以为他要留下的时候他却决定和我们一起离开。那是九月初在密云，大家爬山下来他把我们支回房间只留下DM的人说要说些事情，我和Devi还酸酸的觉得自己被排挤了，直到AGL眼睛红红地推门进来说：“Ruixin我嫉妒你，他要和你们一起走。”我一时以为自己听错了，等回过神来自己都要嫉妒自己了。当天晚上我们在山顶的亭子里面喝酒，周围的树丛里有萤火虫不时出没，DM的姑娘们哭得很伤心，AGL说：“虽然我从没有失恋过但是我觉得自己现在就像是失恋了一样。”&lt;/p&gt;
+&lt;p&gt;所以大家晚自习偷看**金曲颁奖典礼他出来唱歌的时候他们会喊我抬头看；所以他来济南的时候他们会问我要不要去；所以生如夏花刚出时候茄子同学在音像店看到他的大海报会帮我留着&lt;/p&gt;
 
-&lt;p&gt;我想我大概可以理解她的感受：有些事情尽管是在意料之中但当他真的突然来了还是会让人有些招架不住。一直以来我都认为随便两个人只要大三观差别不大，相处时间久了自然会有感情，不过一辈子的时间只有那么长，你能够和谁有这样的机会长时间相处就得看缘分了。我一直觉得我和s是很有缘的，要不怎么会在过去九年的时间里有那么多的交集。不过近来开始怀疑那么多年积攒下的大概也只是习惯而不是喜爱，不然的话万千个不可以也抵不过一个我愿意。&lt;/p&gt;
+&lt;p&gt;05年北邮50年校庆同一首歌的时候他也出来唱歌，我从B区第四排踩着凳子跳到t台下——我本是要从路上走的但那彪悍的保安把我拎了回来——我就只好从凳子上过去了，朴同学离我大概一米多远，我看到他和下面的人们握手和握不到手的人们说对不起，很有礼貌。但是我到底还只是个伪迷，所以也只站在那里看着这个家伙…&lt;/p&gt;
 
-&lt;p&gt;我和mj探讨这个观点的时候正走在天津的西康路上，他看了十几年的散文，作梦也想去到天津百花文艺出版社看一看。他说现在对书里的内容已经不如以前那么喜欢但还是当作习惯在坚持。我说这又是何必呢，不喜欢的习惯停掉也罢。&lt;/p&gt;
+&lt;p&gt;我是伪迷因为我只贪恋《我去2000年》对于《生如夏花》却从没有完整的听完过&lt;/p&gt;
 
-&lt;p&gt;我给他讲我这一年去过的地方：四月的天津，五月的安徽，七月的西雅图，八月的青岛，九月的密云和西藏，十月的济南，十一月的博鳌，十二月的新加坡和一月的曼谷。他听完说 “你这样不行，太crazy了。”“我也不想…”还没等我说完他接着苦口婆心道“我明白。我知道你不好受，可是有些事情是躲不掉的，好的坏的都要去经历，应该给自己一段时间静下来去完整的做一些事情…”他从牛津回来后变得温和许多，不像之前那么容易暴躁，反倒是我话不投机就要撂挑子甩手走人，通常都是婚嫁有关的话题，而似乎我们每段对话都会不自觉得会收敛至此，于是我变得常常暴躁。&lt;/p&gt;
+&lt;p&gt;我记得在我还是个小朋友的时候和另外一个一心要做个军事家的小朋友讨论过《我去2000年》里面的每一首歌，如数家珍，一一列出自己的感受，好像每一支都刻骨铭心的，但是现在再也没有那份心境，再听起来真的只像老朋友，也让我想念&lt;/p&gt;
 
-&lt;p&gt;后来我反思说自己不敢聊结婚生子是因为觉得那实在太难了，比我练马甲线、开大提琴演奏会都要难得多。这才意识到停掉习惯的后遗症开始发作——整个人变得特别不自信。zb似乎很早就看出来了，于是有段时间他经常和我讲：你很好。不要着急，如果不是对的那个人，两个人比一个人更寂寞。还有AC大叔，我说I fell I am not good enough的时候他反驳道no you are too young to know yourself。有信仰的GR在某天夜里给我和朱姐姐说上帝造人每个都不一样，我们却一直被教育要和大家一样，如果一直不自信总是听别人的话怎么能够成为你自己呢？&lt;/p&gt;
+&lt;p&gt;我记得上面文案里的一句话“不说话 只沉默 这不快乐的生活 我的9w台灯”&lt;/p&gt;
 
-&lt;p&gt;另外一个症结就是父母。毛头说看到朋友成家后父母欣慰的样子自己觉得很愧疚，我也一样。前几天美栅推荐byr论坛上有个很感人的“写完这100条”，06级的小孩写和前任的点点滴滴，唯一戳中我泪点的是她说他们在一起的时候她妈妈哭了因为怕她受委屈，然后他们分开的时候她妈妈又哭了问她“真不可能了么？”我和美栅说这话说的和我妈一样一样的，只是我妈还多一句“我能为你们做些什么呢？”是我太敏感么？一听这话就觉得很心酸。其实分分合合都是很正常的好不好，你们何必入戏这么深，搞得我很不安很愧疚的样子。zw已经是两个孩子的妈妈了，家庭和睦事业有成，她和我讲她到现在还会做两个噩梦，一个是考试之前看书看不完，另一个就是分手了自己坐在路边担心怎么和她妈妈交代。你看这样的阴影是会伴随终身挥之不去的，所以尽管我明白他们的担心是对我的关心，可是自己还是有意对他们避而不谈。冬天的时候有一次和o老大讨论人该不该撒谎，我说有些时候善意的谎言是很有必要的，比如我爸妈问我最近怎样的时候我可能正遇到一些麻烦，但是我也会说一切都好因为即使讲了他们也做不了什么还会跟着担心。他想了想说Well then you lose an opportunity to build a closer relationship with your parents。我琢磨了一下似乎的确如此，而且自己的小伎俩好像也很容易被拆穿反而让他们更加担心。&lt;/p&gt;
+&lt;p&gt;于是拿他做签名，但是又不确定，所以就百度了一下（可见我是多么的无聊），竟发现一篇写他的文，署名是木木&lt;/p&gt;
 
-&lt;p&gt;今年开始特别喜欢李宗盛（是的我总是这样后知后觉），冬天时候跑去首体听了他的现场之后感慨老男人真是太有魅力了，轻松戏谑游刃有余，毛头纠正我说不是所有老男人都那样因为那是李宗盛。自称“听了一辈子李宗盛”的GR讲如果拍电影的话他的歌是可以从头放到尾的，每一首歌都是一个故事。我表示不能同意更多，《爱情有什么道理》简直可以拿来做我的年度写照：&lt;/p&gt;
+&lt;p&gt;这个“木木”明显比我这个伪迷要真的多，写的不错，于是就转过来，懒得看的话就点回上一页吧&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;其实一个人的生活也不算太坏&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;一边怀念，一边等待——朴树&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;偶尔有些小小的悲哀&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;木木&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;我想别人也看不出来&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;朴树是个敏感的孩子。正是因为这些敏感，他可以将生活的细微之处写进歌里，进而打动我们的心房。朴树是个任性的孩子。正是因为这些任性，他可以出道这么多年只发行了两张唱片。同时朴树又是个有梦想和坚持的孩子。正因为这些梦想和坚持，我们才可以从他那里听到好的音乐。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;其实孤单会使我伤怀&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;朴树这样的孩子，通常会在不经意的时候给我们惊喜，尽管等待的时间可能会很漫长。可这又有什么关系？就是有一些人可以让我们一边怀念，一边等待。因为我们相信。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;也会试着让自己想得开&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;带着那些花儿去2000年&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;对你不知道是已经习惯了还是爱&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1996年是朴树最灰暗的时候。那阵子，他退学了，整天在家鼓捣音乐，可音乐不能当饭吃，他写的歌没人认，朴树又不好意思向家里要钱。这时候，他认识了高晓松，高晓松听完朴树的Demo，凭着一个音乐制作人的敏感，预感到朴树将会成为下一个“老狼”。所以后来，朴树出现在高晓松执导的电影《那时花开》中，扮演男一号。这部电影不光捧红了周迅、朴树，同时还有朴树为这部电影所唱的电影片尾曲——《那些花儿》。这是1999年的事情。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;当初所坚持的心情&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1999年，对于朴树来讲是至关重要的一年。在这一年，他推出了自己的首张个人专辑——《我去2000年》，他出演了高晓松的第一部青春电影——《那时花开》，他与世界五大唱片公司之一的华纳唱片签约，成为其亚太区旗下的第一位内地歌手，其首张专辑《我去2000年》由华纳重新混录和拍摄最新单曲录影带后，于2000年上半年在海外隆重上市。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;是不是还依然存在&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;至今犹记第一次听到《我去2000年》时的震撼，“不说话/只沉默/这平淡的生活/这不快乐的生活/我的9W台灯”。歌词里的第一张图片是一幢老旧的房子，朴树是不是就在这楼房的一个阴暗房间里，在他的9W台灯下，安静地写他的歌，安静地释放他的思想，安静地诠释他的孤独。他的嗓音带一点点沙哑，他用这略带沙哑的声音唱《New Boy》，唱《妈妈，我》，唱《那些花儿》，唱《旅途》，唱《别，千万别》……还有《召唤》和《在希望的田野》上。在那个青春躁郁的高中时代，他唱出了我们的心声，尽管这心声如此悲伤。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;眼看这一季就要过去&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;时间终于到了2000年，我们如此期待2000年，似乎2000年就可以“穿新衣吧／剪新发型吧／轻松一下／windows98／打扮漂亮／十八岁是天堂／我们的生活天天像糖。”2000年2月朴树受邀参演CCTV龙年春节联欢晚会，演绎其早已在各大电台热播过的《白桦林》。一夜爆红。虽然之前他的歌曲已经在全国各大电台获奖无数，但是春节联欢晚会的号召力和影响力无疑给朴树的发展注入了兴奋剂，春节过后的那个春天，满大街都是朴树的《白桦林》。一夜之间多处了那么多的“New Boy”，我们开始怀念“那些花儿”。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;我的春天还没有来&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;“那片笑声让我想起我的那些花／在我生命每个角落静静为我开着／我曾以为我会永远守在她身旁／今天我们已经离去在人海茫茫／她们都老了吧／她们在哪里呀，幸运的是我／曾陪她们开放……”&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;你为何不掉过头去&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;在阳光下，献给你，我最好的年华&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;让我自己去面对问题&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;转眼2000年过去了好久。朴树在经历了成名以及其心态上的跌宕起伏后，终于浴火重生。在2003年的11月，朴树推出他的《生如夏花》。差不多四年的时间，如果放在别的歌手身上，恐怕早已被大家遗忘，但是朴树不会。他有一种让大家为他等待为他守候的魔力。因为《我去2000年》的花开不败。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;你尝试着不露痕迹&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;《生如夏花》的旋律一出来，我们就知道这种等待是值得的。当Windows98早已过时，我们也已不再18岁的时候，他开始唱《傻子才悲伤》，这时的朴树已经不再少年习气，不再轻浮莽撞，不再拒绝人情世故。用他自己的话说：“现在我就是块泥巴，任别人怎么捏就怎么捏，只要还有那个坚硬的核在，那个核是别人始终也改变不了的。或许这就是成长！”&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;告诉我爱情的道理&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;成长的代价就是朴树在音乐中的挣扎，他用一种近乎苦行僧的迷狂，试图渐抵印度大师泰戈尔“使之生如夏花之绚烂，死若秋叶之静美”的纯然之境。专辑中的词曲依旧由朴树一手打造，他用绝对充盈的内在，追求那种近乎缥缈和绝望的唯美，他用他惊人的爆发力和控制力，给我们呈现出让我们无比惊艳的《生如夏花》。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;你认为值得努力的&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;还好，他成功了。凭借着《生如夏花》专辑，他问鼎了乐坛各大颁奖礼的相关奖项，成为2004年名副其实的得奖专业户，也登上了内地歌坛当家一哥的宝座。尽管朴树是一位脱俗的歌手，他厌恶宣传，厌恶交际，厌恶虚假。他只想做自己的音乐，他从来不在乎自己是否能走红，他只是要做他自己，告诉大家一个真实的朴树，没有任何包装的朴树，没有任何虚假的朴树。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;是我俩之间的距离&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;当朴树的音乐直面扑来的时候，我们忽然发现他的悲伤没有那么强烈了。正如《我爱你，再见》里唱的那样：“像命中注定一般／如火一般的那个夏天／撩人的夏日舞会／你跳向我身边……”。这首歌所描述的那种对感情的豁然态度，深深吸引了郑秀文。郑秀文用粤语唱：“让故事再发生吧／让我的人生充满遗憾／生活在继续／舞会从来不曾停止／一错再错的／这故事才会精彩……”。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;喔 这一季&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;舞会从来不会停止，可朴树却又开始沉寂了。直到2007年他出现在湖南卫视《名声大震》的舞台上，在喧哗里他静静地唱《Sunny》、《Why》、《Rock DJ》等，不禁让人想到返璞归真。&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;总算有些值得回忆&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;在《名声大震》的最后一场比赛里，他说他要唱一首他妈妈最喜欢的歌。《那些花儿》的音乐响起，朴树站在钢琴边说：“弹钢琴的是小玲姐”。台下是如雷般的掌声。熟悉的旋律响起，那些过往的时光就像电影胶片一样在脑海里倒流，尽管我们回不去了，但是身边依旧有朴树的音乐陪伴。他拿到了那场比赛的冠军。&lt;/p&gt;
 
-&lt;p&gt;过去这一年慢慢的摸到自己生活的节奏，也安然乐在其中。伤怀之后更加相信自己是一个什么样的人未来就会遇到一个什么样的人。&lt;/p&gt;
+&lt;p&gt;后来听说朴树去西藏和尼泊尔采风了，回京后朴树长时间沉浸在西藏那圣洁纯真的情境中不能自拔，于6月份再次进藏。采风归来的朴树，脸上荡漾着洗礼过来的纯净笑容。相信这一次我们等待的时间不会太长了。&lt;/p&gt;
 
-&lt;p&gt;其实仔细想想值得回忆的感动还是有许多的：比如室长和张老师的婚礼还有一起筹备的小伙伴们；比如批评我没有行动力的soul mate AGL；比如和棋子、GR、龙姐姐还有朱姐姐的重聚；比如在宏村被疯子抢粽子之后瞬间能量爆发的小惠平；比如出去玩的时候不断的问我饿不饿的AC大叔；比如在青岛拎着啤酒袋子差点赶不上火车的处女座男们；比如在纳木错被我发脾气还说要给我做好吃的师傅；比如在金海岸泳池边等我到最后的zb和d；比如带我去stripper club还和我分享自己和小d相识过程的yf；比如夜里和GR在顶楼泳池里 边听李宗盛边撒欢还把天上的飞机当流星许愿；比如在帕提亚水下慌张无措时候Addy伸过来的手臂…&lt;/p&gt;
-
-&lt;p&gt;新的一年我想继续努力成为一个有意思的人。除了继续跑步大提马甲线争取把今年没跳成的伞跳掉之外，还想能有机会去到新的地方认识新的人。当然不行也没有关系，全套的读库已经摆在桌上，只要自己的世界在收敛之前可以越来越大那就很好了。&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/be-happy-if-not-be-crazy&quot;&gt;Be happy, if not, be crazy&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on January 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/guanyupushu&quot;&gt;关于朴树&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on April 25, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[一只抱大腿的电灯泡的西藏十五日游]]></title>
-  <link>http://ruxubooks.com/ruxu-life/xizang-you</link>
-  <id>http://ruxubooks.com/ruxu-life/xizang-you</id>
+  <link>http://localhost:4000/travel/xizang-you</link>
+  <id>http://localhost:4000/travel/xizang-you</id>
   <published>2013-10-08T17:29:00+00:00</published>
   <updated>2013-10-08T17:29:00+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
@@ -373,113 +277,19 @@
 
 &lt;p&gt;我不是旅游达人，作为一个毫无责任心的弱弱的抱大腿的灯泡儿，我一直在等我们队长和其他靠谱队员的游记，心里小算盘儿打着到时候点个大大的赞然后分享之就好啦，直到GR同学有天给我讲了“著名的发生在纽约的一件社区凶杀案件”，我才下定决心开始动笔。“故事发生在一个非常文明的高端小区，28户住户，在同一时间，目睹了一个杀人犯用刀杀死一个女孩。历时30多分钟，在这个过程女孩一直大声呼救，其中没有一个人打电话报警。因为大家都觉得别人会报警。”“dont let me die”她最后补了一句，所以才有了这篇流水记，如果我啰啰嗦嗦这么一大堆恰好给你的出行带来一点点帮助的话，那也不枉费GR一片苦口婆心了。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/xizang-you&quot;&gt;一只抱大腿的电灯泡的西藏十五日游&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on October 08, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[2013-6-6]]></title>
-  <link>http://ruxubooks.com/ruxu-life/2013-6-6</link>
-  <id>http://ruxubooks.com/ruxu-life/2013-6-6</id>
-  <published>2013-06-06T23:34:16+00:00</published>
-  <updated>2013-06-06T23:34:16+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
-
-&lt;p&gt;我们都是太自私的人，谁都无法完全体会谁的痛苦，我不懂她们的，她们也不懂我的。尽管说者无心却点到人家的痛处，听得人于是委屈伤心流下泪来 (对不起额亘)&lt;/p&gt;
-
-&lt;p&gt;从小时候起，被宠坏的孩子一直被拿来当作反面教材，教育要独立要自强要无所不能。长大之后才发现，天底下一物降一物，有人需要很多很多的爱，那自然就会有人给他很多很多，有人独立自强无所不能，那自然就不需要那么多柔情眷恋。&lt;/p&gt;
-
-&lt;p&gt;明天是新一轮的高考，时间如果可以倒流，我宁愿从没离开过家。&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/2013-6-6&quot;&gt;2013-6-6&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on June 06, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[chucky jokes]]></title>
-  <link>http://ruxubooks.com/ruxu-life/chucky-jokes</link>
-  <id>http://ruxubooks.com/ruxu-life/chucky-jokes</id>
-  <published>2011-11-03T10:43:00+00:00</published>
-  <updated>2011-11-03T10:43:00+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: mumu&lt;/p&gt;
-
-&lt;p&gt;1.&lt;/p&gt;
-
-&lt;p&gt;早九点半 撒咪咪毛 电影明星般从囧木面前经过&lt;/p&gt;
-
-&lt;p&gt;非常绅士的伸手say hi瞬间空气被冻结&lt;/p&gt;
-
-&lt;p&gt;囧木被shining得不能自已&lt;/p&gt;
-
-&lt;p&gt;chucky见状在后面幽幽道：对这样的已婚男人要hold住要hold住！&lt;/p&gt;
-
-&lt;p&gt;2.&lt;/p&gt;
-
-&lt;p&gt;万圣节早上 见到装扮一新的cubic 和打扮极其专业的老板们&lt;/p&gt;
-
-&lt;p&gt;囧木慌了：怎么办怎么办我什么都没准备怎么办怎么办拿神马去吓人呢&lt;/p&gt;
-
-&lt;p&gt;chucky：吓人的事情还是交给男生来做吧&lt;/p&gt;
-
-&lt;p&gt;囧木：为什么 女生呢 要矜持 是么&lt;/p&gt;
-
-&lt;p&gt;chucky：是的&lt;/p&gt;
-
-&lt;p&gt;囧木: 可是 可是 我的字典里没有这个词哎&lt;/p&gt;
-
-&lt;p&gt;chucky：。。。&lt;/p&gt;
-
-&lt;p&gt;3.&lt;/p&gt;
-
-&lt;p&gt;晚加班 安置啦 临走过来道别：ruixin，这么晚了回去路上小心!&lt;/p&gt;
-
-&lt;p&gt;chucky：对 碰到萌小正太要hold住&lt;/p&gt;
-
-&lt;p&gt;囧木做深情状：放心 我心中只有撒咪咪毛！&lt;/p&gt;
-
-&lt;p&gt;chucky 大笑然后一脸严肃：这个一点都不冷~真的太好笑了&lt;/p&gt;
-
-&lt;p&gt;4.&lt;/p&gt;
-
-&lt;p&gt;LY指着蜷缩在本本前的chucky说：你窝在那里感觉好挤呀&lt;/p&gt;
-
-&lt;p&gt;chucky无辜状：我就喜欢这样小小的感觉！&lt;/p&gt;
-
-&lt;p&gt;囧木：。。。&lt;/p&gt;
-
-&lt;p&gt;5.&lt;/p&gt;
-
-&lt;p&gt;某日chucky要赶火车回家却十分敬业的一直在干活&lt;/p&gt;
-
-&lt;p&gt;囧木：还不走？再不走就赶不上车啦！&lt;/p&gt;
-
-&lt;p&gt;chucky：我就喜欢这样极限的感觉！&lt;/p&gt;
-
-&lt;p&gt;然后就传来一阵慌乱只见chucky抓起包飞奔而去&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/chucky-jokes&quot;&gt;chucky jokes&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on November 03, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/travel/xizang-you&quot;&gt;一只抱大腿的电灯泡的西藏十五日游&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on October 08, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[今天我要讲一个关于她的还没有结束的故事]]></title>
-  <link>http://ruxubooks.com/ruxu-life/her-story</link>
-  <id>http://ruxubooks.com/ruxu-life/her-story</id>
+  <link>http://localhost:4000/life/her-story</link>
+  <id>http://localhost:4000/life/her-story</id>
   <published>2011-11-02T23:33:26+00:00</published>
   <updated>2011-11-02T23:33:26+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by : MuMu&lt;/p&gt;
@@ -556,62 +366,19 @@
 
 &lt;p&gt;如果你恰好也认识她，请拜托你拿起手机给她发条信息送一份祝福。如果你不认识她，没有关系，也请你拿起手机给你的她打个电话道一声问候。祝你的她，我的她都 晚安 好梦。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/her-story&quot;&gt;今天我要讲一个关于她的还没有结束的故事&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on November 02, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[鞋带儿]]></title>
-  <link>http://ruxubooks.com/ruxu-life/xiedaner</link>
-  <id>http://ruxubooks.com/ruxu-life/xiedaner</id>
-  <published>2011-09-09T17:10:23+00:00</published>
-  <updated>2011-09-09T17:10:23+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: mumu&lt;/p&gt;
-
-&lt;p&gt;天气骤凉&lt;/p&gt;
-
-&lt;p&gt;鞋子上面开始有鞋带儿了&lt;/p&gt;
-
-&lt;p&gt;可是我不会系鞋带儿！！&lt;/p&gt;
-
-&lt;p&gt;于是&lt;/p&gt;
-
-&lt;p&gt;走着走着一低头 左边儿鞋带儿开了…&lt;/p&gt;
-
-&lt;p&gt;走着走着一低头 右边儿鞋带儿开了…&lt;/p&gt;
-
-&lt;p&gt;走着走着一低头 两边儿鞋带都开了… …&lt;/p&gt;
-
-&lt;p&gt;再加上近日鼻炎又犯鼻涕横流&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;_&amp;lt;!!!!&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;每当我趁人不注意偷偷蹲下身来系鞋带的时候&lt;/p&gt;
-
-&lt;p&gt;就仿佛听到炸酱面师兄在我背后喊&lt;/p&gt;
-
-&lt;p&gt;“小徐！你是智障儿童园里溜出来的么？！”&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/xiedaner&quot;&gt;鞋带儿&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on September 09, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/her-story&quot;&gt;今天我要讲一个关于她的还没有结束的故事&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on November 02, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[柔软]]></title>
-  <link>http://ruxubooks.com/ruxu-life/rouruan</link>
-  <id>http://ruxubooks.com/ruxu-life/rouruan</id>
+  <link>http://localhost:4000/life/rouruan</link>
+  <id>http://localhost:4000/life/rouruan</id>
   <published>2011-08-28T21:51:30+00:00</published>
   <updated>2011-08-28T21:51:30+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: mumu&lt;/p&gt;
@@ -642,447 +409,426 @@
 
 &lt;p&gt;————这是“柔软”的台词 部分是被删掉的了 我没去看过 估计即使看了以自己这样线性的大脑和思维也是无法理解的 就像当年的犀牛一样；也不是想拿文艺的皮儿来掩盖自己的流氓本质 像小涂讲这是盖不住的了-_-!!!只是觉得有些喜欢的调调儿在里面 记在这儿 一是让更多的人看到 二是以后自己找起来也方便&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/rouruan&quot;&gt;柔软&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on August 28, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[观音山]]></title>
-  <link>http://ruxubooks.com/ruxu-reading/guanyin-mountain</link>
-  <id>http://ruxubooks.com/ruxu-reading/guanyin-mountain</id>
-  <published>2011-08-24T20:39:54+00:00</published>
-  <updated>2011-08-24T20:39:54+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
-
-&lt;p&gt;之前看过一个报道，李玉讲她拍这部片子之前自己也不知道应该是个什么样子，于是拍得时候不喊停，放手交给演员去发挥。而范冰冰也曾说李玉是最懂她的导演可以让她挖掘出更多的自己，还有张艾嘉——对于女导演我总会有些不一样的期待，因为总觉得有些情绪是只有女性可以捕捉得到的，无论是指导别人还是自己表现。&lt;/p&gt;
-
-&lt;p&gt;张艾嘉果然不出所望，眉眼之间都是戏，南风对朋友的仗义侠气，生活感情上的无可奈何，让我想起美栅。网上有人说范冰冰演得太假，我不觉得，反而倒觉得是他们不能够懂得和理解吧。相比之下陈柏霖略显黯然了，那张脸依然摆脱不了蓝色大门的青涩小男孩儿，总觉得他跟范是在搞姐弟恋…&lt;/p&gt;
-
-&lt;p&gt;张艾嘉每日都坐在儿子失事的车中哭泣，在儿子忌日对着金晶大吼&lt;/p&gt;
-
-&lt;p&gt;＃“你要我安慰你么？那谁来安慰我呀？”＃
-＃“我怎么知道什么时候会发生什么事呢？”＃&lt;/p&gt;
-
-&lt;p&gt;寺庙里篝火旁，她眉头微皱神情凝重的发出这般禅意的质问，生命本是无常，总有些孤独只能自己去承受，并且孤独的又岂止是她自己？&lt;/p&gt;
-
-&lt;p&gt;失去所爱的人固然让人心伤但相比于没有失去却互不理解，不知道哪个更悲剧一些。比如丁波与父亲，比如他与南风，他帮她打架出头，卖掉自己的坐骑帮她还账，在她失落无助的时候说不要哭一切都会过去…他为她做很多事情，却和其他女人厮混，她心碎流泪却死不承认不说原因，因为他连伤心的资格都没有给她，铁轨上她问他&lt;/p&gt;
-
-&lt;p&gt;＃“为什么你跟别人都可以却不能和我？”＃&lt;/p&gt;
-
-&lt;p&gt;＃“一个男人要拥有很多东西以后才能拥有心爱的女人。可是我不知道很多到底是多少。”＃&lt;/p&gt;
-
-&lt;p&gt;＃“你就算一无所有也是可以拥有你想要的”＃&lt;/p&gt;
-
-&lt;p&gt;不管算是女人的天真还是男人的借口亦或是时机未到的真爱，这样的桥段却真真切切的在你我身边无时不刻的上演着。&lt;/p&gt;
-
-&lt;p&gt;＃“这么大的城市我们又算什么”＃&lt;/p&gt;
-
-&lt;p&gt;在繁杂错乱的时空中，我们又算什么，谁能与谁时空一致，谁又能完完全全地体会得了谁呢？&lt;/p&gt;
-
-&lt;p&gt;若能遇到一两个人偶尔的懂得与体谅，那就足够你我感恩戴德的了，孤独与变数乃生命的常态，经不起纠结，放宽心好好活着。&lt;/p&gt;
-
-&lt;p&gt;ps:啊！！我果然是没心没肺的乐观派！&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-reading/guanyin-mountain&quot;&gt;观音山&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on August 24, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[囧木之工作囧事]]></title>
-  <link>http://ruxubooks.com/ruxu-life/jiongmugongzuojiongshi</link>
-  <id>http://ruxubooks.com/ruxu-life/jiongmugongzuojiongshi</id>
-  <published>2011-08-24T20:33:06+00:00</published>
-  <updated>2011-08-24T20:33:06+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: mumu&lt;/p&gt;
-
-&lt;p&gt;入职至今 囧木一如既往保持囧囧不断：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;入职第一天，也学人家立起一个显示器，然后狂按显示器下方各个钮试图将图像旋转90度，未果，一中年外国男子过来拿鼠标点了几下，搞定…囧木紧接着找不到网线口，中年男子说在left corner，囧木遍历了left corner半天也没见一个可以插的洞…然后终于中年男子实在看不下去…蹲下身把地毯掀起来露出一个小铁盖子再掀开就看到了可爱的网线口…后来才知道那是我老板…只是来跟我打个招呼…囧&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;某日早上去接水，某foreigner迎面过来”hi ruixin” 我说”hi…” 然后就开始琢磨他名字咋念 过于专注而没听到他的”how r u doing” 等我反应过来要说个”fine thx and u”的时候 他已经消失在走廊尽头了…然后背后就冒出来某师兄欢乐地笑声…我囧囧的想我一点也不fine不说也就算了…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;某一周天天早上开会，连续早起对囧木是巨大的挑战，终于在一个8点有会的早上爆发，睁开眼已是8点10分，然后匆忙开机，发现网络坏掉了，于是检查网线，重启电脑，重启交换机…等我折腾半天连到会上，大家都快说完了…然后到公司见到老板说 “对不起我起晚了所以早上的会迟到了”…他反应半天才明白我说的是啥（我的可怜的口语啊啊啊啊啊啊）然后说 “没关系我拿手机开的 我也不知道谁在谁不在”…&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;本本一插投影仪就重启，联系IT，在得知我的本本还有一个礼拜就要过保时他们二话不说“那就赶紧换个主板吧！”当我颠颠儿的捧回新主板的本本却发现连不上无线网，于是继续打电话找IT，在被远程查看各种权限各种证书各种设置都没有问题之后，他们决定求助客服，当我捧着本本去见客服的路上发现本本无线网络的开关被关掉了…拨一下 一切正常…于是我就HLL的回来了…撤销各种IT请求…&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/jiongmugongzuojiongshi&quot;&gt;囧木之工作囧事&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on August 24, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[十年踪迹十年心]]></title>
-  <link>http://ruxubooks.com/ruxu-life/shi-nian-zong-ji-shi-nian-xin</link>
-  <id>http://ruxubooks.com/ruxu-life/shi-nian-zong-ji-shi-nian-xin</id>
-  <published>2011-08-13T00:03:55+00:00</published>
-  <updated>2011-08-13T00:03:55+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
-
-&lt;p&gt;上周奶奶八十二岁大寿，全家又聚到一起，哥哥姐姐弟弟妹妹….&lt;/p&gt;
-
-&lt;p&gt;没人的时候盼姐姐掏出一条串着玉兔子和如意的红腰绳给我系上，本是要过年时候给我的可惜当时忘记带在身上，一直等到现在才又见上面&lt;/p&gt;
-
-&lt;p&gt;两个弟弟PF和ZN一齐嘲笑我不听许嵩不知道苏格拉没有底。。。我小心翼翼的问“你们喜欢五月天么？”理所当然又遭来一顿鄙视 -_-!!!&lt;/p&gt;
-
-&lt;p&gt;PF坐在我对面，宽厚的肩膀俨然已经完全挡住我的视线了，他在灯下翻出自己的小秘密，一页一页如数家珍。我一时恍惚，觉得很不可思议——当年那个赖着不走非要我背然后又被不满的我失手摔在地上哇哇哭的小男孩儿怎么突然就长大了呢？&lt;/p&gt;
-
-&lt;p&gt;还有我家ZN，每次都会给我各种震撼：&lt;/p&gt;
-
-&lt;p&gt;ZN：“我最近在看轻小说”&lt;/p&gt;
-
-&lt;p&gt;我：“什么轻小说”&lt;/p&gt;
-
-&lt;p&gt;ZN：“艾斯点艾幕点艾斯”&lt;/p&gt;
-
-&lt;p&gt;我：“我是说什么是轻小说，给我讲讲呗~”&lt;/p&gt;
-
-&lt;p&gt;ZN：“我也不知道，不给你说了，太邪恶了~”&lt;/p&gt;
-
-&lt;p&gt;我：“。。。我最近在补文化！我在看散文！！！”&lt;/p&gt;
-
-&lt;p&gt;ZN：“恩，散文不错，中国的古典散文写得蛮好的，你看过 洛神赋 么，描写女性的最有名的散文，好像有两篇吧，就是那个翩若惊鸿婉若游龙？”&lt;/p&gt;
-
-&lt;p&gt;我：“米有。。那是啥。。。”&lt;/p&gt;
-
-&lt;p&gt;ZN：“曹植写得，他在xxx年去xxx然后来到洛水边写下了xxx，其实曹植最有名的不是 七步诗，那个也就在只读过唐诗三百首的小孩儿中比较吃的开，洛神赋比七步诗要有名气的多。。。”(注：xxx是我忘记了。。。)&lt;/p&gt;
-
-&lt;p&gt;我：（不知道该说啥。。。）&lt;/p&gt;
-
-&lt;p&gt;我：“你觉得诸葛亮咋样？”&lt;/p&gt;
-
-&lt;p&gt;ZN：“杰出的政治家，军事能力就相对弱了”&lt;/p&gt;
-
-&lt;p&gt;我：“啊？不是他指挥战斗各种厉害么？”&lt;/p&gt;
-
-&lt;p&gt;ZN：“你说《三国演义》还是正史啊？”&lt;/p&gt;
-
-&lt;p&gt;我：“三国演义不是正史么？”&lt;/p&gt;
-
-&lt;p&gt;ZN怒了，大吼倒：“不是呀！！！三国演义是小说！！我有看过三国志的，诸葛亮没那么神，鲁迅不是说么多智而近妖，就说三国演义把诸葛亮写的太完美了”&lt;/p&gt;
-
-&lt;p&gt;我：“哇。。。你知道好多呀。。。都给我讲讲给我扫扫盲！！！”&lt;/p&gt;
-
-&lt;p&gt;ZN：“你自己去看书呀，算了，小姑娘还是别看这个了，都是男人的故事，三国志里面都没有正面描写的女性。”&lt;/p&gt;
-
-&lt;p&gt;我：“啊？那些美女也没有么？什么貂蝉啊大小乔的？”&lt;/p&gt;
-
-&lt;p&gt;ZN：“没有，写貂蝉就说是董卓的婢女，跟吕布有染。”&lt;/p&gt;
-
-&lt;p&gt;我：“！！！怎么这样！！！”&lt;/p&gt;
-
-&lt;p&gt;ZN：“所以。。。你别看了。。。去找些诗歌看看陶冶下情操就得了。。。”&lt;/p&gt;
-
-&lt;p&gt;。。。
-不管怎样近年来我对我家ZN的敬仰之情油然而生如滔滔江水连绵不绝，常常暗自后悔小时候没有对他好一点，不过每当我小心翼翼的试探
-“你还记得小时候我把你锁在门外的事情么”时，他一脸的茫然，我就邪恶的舒了口气，ZN今年要离家去住校，和十年前的我一样，看到今天的他想到十年前的自己，只觉十年踪迹十年心，尽管并不常见面，但“远远关心，远远分享”，这就是亲人吧。&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/shi-nian-zong-ji-shi-nian-xin&quot;&gt;十年踪迹十年心&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on August 13, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[木云对话之胖子的好处]]></title>
-  <link>http://ruxubooks.com/ruxu-life/muyunduihua</link>
-  <id>http://ruxubooks.com/ruxu-life/muyunduihua</id>
-  <published>2011-08-08T22:41:48+00:00</published>
-  <updated>2011-08-08T22:41:48+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
-
-&lt;p&gt;木：云！我认识一个人跑去四川做大熊猫志愿者了~每天喂熊猫打扫粪便神马的。。。&lt;/p&gt;
-
-&lt;p&gt;云：挺好的，不过熊猫这种动物其实该绝种的，太懒惰，非常不符合优胜劣汰的自然法则。&lt;/p&gt;
-
-&lt;p&gt;木：然后说熊猫特别萌！他们睡觉是拿肚子趴在树上然后四条腿耷拉着的！&lt;/p&gt;
-
-&lt;p&gt;云：要不是人类犯贱非花纳税人的钱保护起来&lt;/p&gt;
-
-&lt;p&gt;木：然后我就问他 要是熊猫睡着了 掉下来怎么办？&lt;/p&gt;
-
-&lt;p&gt;云：估计早就绝种了&lt;/p&gt;
-
-&lt;p&gt;木：然后他说 没事的 他们在地上打个滚 就起来了！哈哈哈哈哈哈哈&lt;/p&gt;
-
-&lt;p&gt;云：啊？不疼么？&lt;/p&gt;
-
-&lt;p&gt;木：他们有肉呀，这就是胖子的好处~&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/muyunduihua&quot;&gt;木云对话之胖子的好处&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on August 08, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[变三归来]]></title>
-  <link>http://ruxubooks.com/ruxu-reading/transformer-3</link>
-  <id>http://ruxubooks.com/ruxu-reading/transformer-3</id>
-  <published>2011-08-01T00:03:55+00:00</published>
-  <updated>2011-08-01T00:03:55+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
-
-&lt;p&gt;我这个土人终于看上了3D IMAX，到最后居然都要睡着了。。。从1到3 四年时间，我依然对情节和场面木有任何触动，只记得一堆打打杀杀的铁和女猪脚性感的嘴唇&lt;/p&gt;
-
-&lt;p&gt;变1上映是07年，夏天 全国赛 保研，当年圈儿在创新讲自己面试时忘记信号系统的三大变换的英文表达，想到transformer就一路transformer下去了。。。&lt;/p&gt;
-
-&lt;p&gt;还有晴q乐sun跑去某学校参加arm的比赛逮到一辆酷似大黄蜂的车狂合影。。。前几天马老师说最近又在带比赛，时间是在8月底，不知道那贴着我名字的示波器万用表信号发生器还有“小强电源”是否都还健在呢？&lt;/p&gt;
-
-&lt;p&gt;变2是被美丽的yy带去看的，在美嘉，去的过于早了，于是我们跑去津乐汇败了两条裙子。其中用来装纯的小白已经被我弄丢了，而美丽的yy也已为人妻。&lt;/p&gt;
-
-&lt;p&gt;这些时刻远远回顾才发现&lt;/p&gt;
-
-&lt;p&gt;都很仓皇而又模糊&lt;/p&gt;
-
-&lt;p&gt;那份心情细细揣摩却感觉&lt;/p&gt;
-
-&lt;p&gt;依然温暖而又充实&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-reading/transformer-3&quot;&gt;变三归来&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on August 01, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[周末]]></title>
-  <link>http://ruxubooks.com/ruxu-life/weekend</link>
-  <id>http://ruxubooks.com/ruxu-life/weekend</id>
-  <published>2011-07-31T18:37:45+00:00</published>
-  <updated>2011-07-31T18:37:45+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
-
-&lt;p&gt;菜是从最简单的开始，可乐鸡翅 麻婆豆腐 肉末蒸茄子 咸蛋黄焗南瓜 凉拌甘蓝菜和凉拌胡萝卜。麻婆豆腐是学上回小涂做的，凉拌甘蓝菜是用的记忆中老爹的手法，咸蛋是汪汪留下的，而南瓜和胡萝卜都是我的最爱。初次尝试，成功率约六成，对此自己很满意。&lt;/p&gt;
-
-&lt;p&gt;还有我喜欢做菜的过程，像一次次魔术的化学试验，但是洗菜去皮切菜真是个体力活，难怪大厨都要那么几个打下手的小跟班儿。&lt;/p&gt;
-
-&lt;p&gt;书是上周陆陆续续的买得，我说过自己读得书太少，要一一补回来。除了老娘塞给的 婚姻是女人一辈子的事情，再就是淼同学最爱的三本席慕容。&lt;/p&gt;
-
-&lt;p&gt;十年前园园坐在我旁边天天捧着一本席慕容，我还很不屑，十年后的我再翻出来，却立即被那份纯粹真诚以及刚刚好的敏锐与细腻瞬间击中。真的太美了，只可惜这样的敏感的东西没有能在敏感的年纪里读到，不然就可以明白自己的那些情绪其实一点儿都不奇怪，青春的日子或许可以过的更加坦然一些了。&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/weekend&quot;&gt;周末&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on July 31, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[第一个病假]]></title>
-  <link>http://ruxubooks.com/ruxu-life/first-sick-leave</link>
-  <id>http://ruxubooks.com/ruxu-life/first-sick-leave</id>
-  <published>2011-07-22T23:19:30+00:00</published>
-  <updated>2011-07-22T23:19:30+00:00</updated>
-  <author>
-    <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
-    <email>taowu78@gmail.com</email>
-  </author>
-  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
-
-&lt;p&gt;肚子疼，死去活来，刚到公司查email据说有key老大要来还邀pm们吃饭，心想机会难得想去见见世面的，而后就开始上吐下泻浑身冒冷汗，怕是坚持不到那会于是就灰溜溜请病假回来窝着，等汗冒完。&lt;/p&gt;
-
-&lt;p&gt;红梅归来，忙着炒菜做饭，还给囧木端来一碗热腾腾的红枣生姜红糖水，暖暖的很贴心&lt;/p&gt;
-
-&lt;p&gt;我常觉得最好的安慰莫过于感同身受，摔倒过的人才更懂得搀扶别人，无助过的人才更懂得帮助别人，沮丧过的人才更懂得鼓励别人&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/first-sick-leave&quot;&gt;第一个病假&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on July 22, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/rouruan&quot;&gt;柔软&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on August 28, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[雨 打雷]]></title>
-  <link>http://ruxubooks.com/ruxu-life/rain</link>
-  <id>http://ruxubooks.com/ruxu-life/rain</id>
+  <link>http://localhost:4000/life/rain</link>
+  <id>http://localhost:4000/life/rain</id>
   <published>2011-07-16T22:28:01+00:00</published>
   <updated>2011-07-16T22:28:01+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;于是就把窗子关上，拉上窗帘，闷是稍有些的，但是这样至少世界都安静了。说下雨是天与地的交媾，创造了万物。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/rain&quot;&gt;雨 打雷&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on July 16, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/rain&quot;&gt;雨 打雷&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on July 16, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[日子]]></title>
-  <link>http://ruxubooks.com/ruxu-life/rizi</link>
-  <id>http://ruxubooks.com/ruxu-life/rizi</id>
-  <published>2011-07-04T14:01:57+00:00</published>
-  <updated>2011-07-04T14:01:57+00:00</updated>
+  <title type="html"><![CDATA[周末小结之关于艺术]]></title>
+  <link>http://localhost:4000/life/zhoumoxiaojie-yishu</link>
+  <id>http://localhost:4000/life/zhoumoxiaojie-yishu</id>
+  <published>2011-04-19T17:14:53+00:00</published>
+  <updated>2011-04-19T17:14:53+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
 
-&lt;p&gt;用抽屉锁住自己的秘密&lt;/p&gt;
+&lt;p&gt;万给我看了小崔姐姐的豆瓣（http://site.douban.com/cicikingg/）说她辞掉工作跑去midi当老师真正实现了把音乐当主业成为当年北方到目前为止的最摇滚的一个。我为此激动不已虽说她压根儿不知道我这号人的存在。&lt;/p&gt;
 
-&lt;p&gt;在喜爱的书上留下批语&lt;/p&gt;
+&lt;p&gt;我总觉得“艺术”这玩意儿是可以刺激人的激素分泌进而影响人的情绪的，就像美女之于ws男富二代之于拜金女一样（反之亦然，啊啊啊啊啊我想玩有聪明人鬼和傻子的杀人游戏！！！！！！！！！！）。&lt;/p&gt;
 
-&lt;p&gt;信投进信箱 默默地站一会儿&lt;/p&gt;
+&lt;p&gt;这也就能够很好的解释为什么万的声音总可以让焦躁的我安静下来，从106的“oh～firend～～我对你的想念，此刻特别强烈，这么多年，oh～firend～～～”再到科学会堂的“Suddenly I know I’m not sleepy hello I’m still here all that’s left of yesterday～～～”柔柔的声线下是硬朗的气息，冻结空气，直抵你心底，安静又震撼。&lt;/p&gt;
 
-&lt;p&gt;风中打量着行人 毫无顾忌&lt;/p&gt;
+&lt;p&gt;还有某同学出人意料的钢琴曲让06年夏末沮丧失落的傍晚瞬间绚烂起来——真的是瞬间！！！！！打那之后我就死心塌地的相信那些因受打击而一夜白头的传闻以及电视剧里随着音乐声起而瞬间梦幻起来的恶俗场景…&lt;/p&gt;
 
-&lt;p&gt;留意着霓虹灯闪烁的橱窗&lt;/p&gt;
+&lt;p&gt;其实姐也是试图搞过艺术的，小时候跟着鸭子去画画，立方体静物石膏头像水粉…呃…我只画了两张水粉就跑去解联立方程组了，多年之后她在西湖边的房间里面支起画板临摹我叫不上名字的油彩，日志里带着“搞艺术的”人的情绪和调调，而我窝在未名湖边codingcodingcodingcodingcoding不分昼夜蒙头垢面双眼发红，渐渐忘记曾经一直标榜自己“爱好绘画”…后来有一天在80‘s中看到国美瑰异的建筑让我想起鸭子以及小时候粉红色美少女战士铅笔盒里满满的铅笔，从6h到6b…上次回家悲催的发现当年的颜料画板因长期得不到朕的宠幸都早已干裂自刎了…&lt;/p&gt;
 
-&lt;p&gt;电话间里投进一枚硬币&lt;/p&gt;
+&lt;p&gt;除此之外，我还曾因为长了一副XXXL的大手可以轻松跨八度，在骁尧姐姐的诱惑下跑去练钢琴，finally是还没等左右手配合利索就又一次放弃了…
+为此，我常常担忧对自己都这样三分钟热度没有定力以后怎么管教小孩子呢？！&lt;/p&gt;
 
-&lt;p&gt;向桥下钓鱼的老头要支香烟&lt;/p&gt;
-
-&lt;p&gt;河上的轮船拉响了空旷的汽笛&lt;/p&gt;
-
-&lt;p&gt;在剧场门口幽暗的穿衣镜前&lt;/p&gt;
-
-&lt;p&gt;透过烟雾凝视着自己&lt;/p&gt;
-
-&lt;p&gt;当窗帘隔绝了星海的喧嚣&lt;/p&gt;
-
-&lt;p&gt;灯下翻开褪色的照片和字迹&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/rizi&quot;&gt;日子&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on July 04, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/zhoumoxiaojie-yishu&quot;&gt;周末小结之关于艺术&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on April 19, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[毕业季的未名进站真懂我]]></title>
-  <link>http://ruxubooks.com/ruxu-life/weimingjinzhan</link>
-  <id>http://ruxubooks.com/ruxu-life/weimingjinzhan</id>
-  <published>2011-06-29T22:48:46+00:00</published>
-  <updated>2011-06-29T22:48:46+00:00</updated>
+  <title type="html"><![CDATA[开天窗]]></title>
+  <link>http://localhost:4000/life/kai-tian-chuang</link>
+  <id>http://localhost:4000/life/kai-tian-chuang</id>
+  <published>2011-03-12T23:16:34+00:00</published>
+  <updated>2011-03-12T23:16:34+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
+    <uri>http://localhost:4000</uri>
     <email>taowu78@gmail.com</email>
   </author>
-  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
+  <content type="html">&lt;p&gt;By: MuMu&lt;/p&gt;
 
-&lt;p&gt;先是mayday的笑忘歌&lt;/p&gt;
-&lt;figure&gt;
-&lt;a href=&quot;http://ruxubooks.com/images/xiaowangge.jpg&quot;&gt;&lt;img src=&quot;http://ruxubooks.com/images/xiaowangge.jpg&quot; /&gt;&lt;/a&gt;
-&lt;/figure&gt;
+&lt;p&gt;一辈子如果只让你做一件事情，你会选择做什么？&lt;/p&gt;
 
-&lt;p&gt;今天又换成了海绵宝宝和派大星&lt;/p&gt;
-&lt;figure&gt;
-&lt;a href=&quot;http://ruxubooks.com/images/biyehaibao.jpg&quot;&gt;&lt;img src=&quot;http://ruxubooks.com/images/biyehaibao.jpg&quot; /&gt;&lt;/a&gt;
-&lt;/figure&gt;
+&lt;p&gt;去年冬天很多人被我问过这个问题，小b同学说我琢磨这些问题是抑郁症的前兆。其实我没有他想的那么深刻，我只是在找工作的时候想把有限的精力集中在一个方向上，但是却不知道该如何做选择。&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/weimingjinzhan&quot;&gt;毕业季的未名进站真懂我&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on June 29, 2011.&lt;/p&gt;</content>
+&lt;p&gt;最终还是全面突击的广撒网，搞得自己很狼狈。从最开始各种求之不得的恐慌不安夜不能寐，到后来面对选择的辗转纠结，期间也曾穷尽一切理性的思考，试图从各个维度进行衡量，有人说趁着年轻就应该到不同的地方多走走增加阅历不然老了跟人家吹牛都没的说，有人说女孩子嘛稳稳定定才是王道，到头来还是左右摇摆不能痛快决定…直到曾经的理想出现到自己面前，我才豁然明白纠结的原因是因为没遇到自己真正想要的。此刻面对越发强烈的反对的声音，自己却是异常的坚定，才体会到所谓“内心的力量”是如此的强大，难怪总被众多成功学家挂在嘴边。&lt;/p&gt;
+
+&lt;p&gt;可命运总是出人意料的奇妙，当你觉得自己已经马上到达终点的时候，她偏偏又要你跌个跟头回到起点。周围的他和她以为我又会很悲伤，但是这一圈儿下来我渐渐明白最重要的东西是内心的安宁，而这本不该与外部的环境有那么大的关系，得失去留也就显得不再那么重要。&lt;/p&gt;
+
+&lt;p&gt;小草莓当年跟我们讲西西弗斯推石头的时候说，生命的意义就在于承认了她的无意义还在每天坚持做自己认为有意义的事情。不管是开天辟地的盘古还是推石头的西西弗斯，到底都只成为一个传说，而对当事人而言，这个过程中自个儿心里的感悟收获和成长才是最真切的。年轻的时候读林清玄，隐约记得他好像讲过这样话：往外走，外面的世界会很精彩但总是有个尽头，而往里走，内心的世界却是可以无限的精彩。讲的真好，我的确还有很多有趣的地方没有去过，有很多惊天动地的事情没有经历过，可是成长与这些都无关。&lt;/p&gt;
+
+&lt;p&gt;身为一个没有脱离低级趣味的俗人，我天天关注人肉上的八卦，迷恋糗百上的冷笑话，每天自编自导自演邋遢的生活，跟熟悉的朋友欢乐地没心没肺；没有过人的资质，记性不好，总是丢三落四；情商不高，喜怒哀乐都写在脸上没有城府没有气场没有及格的影响因子…这样的底子能苟延残喘至今日自己都觉得难以置信了，我不奢求有多大的影响力，也不想去改变他人改变世界，我只希望能够做好手边的事情，安安静静的度过一天又一天。&lt;/p&gt;
+
+&lt;p&gt;xu老师是一个很爱思考人生的人，他老人家那天跟我讲快乐其实是不分大小的，赢一场球赛和赢一场战争给人带来的快乐其实是一样的。我简直感同身受：学期末收到小盆友的email讲我是他遇到的最好的助教的时候，我默默地癫儿好几天，那快乐一点也不比paper中了要少，可见我有多么的不学术…&lt;/p&gt;
+
+&lt;p&gt;MS的offsite上播的成功学视频鼓励大家都要争做大树不要做小草，可是我发自肺腑的只想做根草和我的伙伴遍及天涯海角，为人类电脑桌面的背景图片添一抹墨绿或者苍黄的背景色不是也很好么？&lt;/p&gt;
+
+&lt;p&gt;至于开头的那个问题，我到现在也没找到自己的答案，不过我也不打算继续深究，顺其自然好了，像五月天的开天窗那样：&lt;/p&gt;
+
+&lt;p&gt;顺风时就展开双翅飞翔&lt;/p&gt;
+
+&lt;p&gt;逆风时就当成在冲浪&lt;/p&gt;
+
+&lt;p&gt;没有风的时候那就让我开开天窗&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/kai-tian-chuang&quot;&gt;开天窗&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on March 12, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[父亲节]]></title>
-  <link>http://ruxubooks.com/ruxu-life/fuqinjie</link>
-  <id>http://ruxubooks.com/ruxu-life/fuqinjie</id>
-  <published>2011-06-20T01:47:22+00:00</published>
-  <updated>2011-06-20T01:47:22+00:00</updated>
+  <title type="html"><![CDATA[我想]]></title>
+  <link>http://localhost:4000/dream/wo-xiang</link>
+  <id>http://localhost:4000/dream/wo-xiang</id>
+  <published>2010-08-25T18:40:58+00:00</published>
+  <updated>2010-08-25T18:40:58+00:00</updated>
   <author>
     <name>wutao</name>
-    <uri>http://ruxubooks.com</uri>
+    <uri>http://localhost:4000</uri>
+    <email>taowu78@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;By: MuMu&lt;/p&gt;
+
+&lt;p&gt;我想当一个萝卜&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的萝卜&lt;/p&gt;
+
+&lt;p&gt;我想当一个蘑菇&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的蘑菇&lt;/p&gt;
+
+&lt;p&gt;我想当一个小秘书&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的小秘书&lt;/p&gt;
+
+&lt;p&gt;我想当一个水母&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的水母&lt;/p&gt;
+
+&lt;p&gt;我想当一个鼓手&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的鼓手&lt;/p&gt;
+
+&lt;p&gt;我想当一个主妇&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的主妇&lt;/p&gt;
+
+&lt;p&gt;我想当一个幼儿园老师&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的幼儿园老师&lt;/p&gt;
+
+&lt;p&gt;我想当一个图书管理员&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的图书管理员&lt;/p&gt;
+
+&lt;p&gt;我想当一个海绵宝宝&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的海绵宝宝&lt;/p&gt;
+
+&lt;p&gt;我想当一个蜜蜂&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的蜜蜂&lt;/p&gt;
+
+&lt;p&gt;我想当一个QQ&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的QQ&lt;/p&gt;
+
+&lt;p&gt;我想当一个冰糖&lt;/p&gt;
+
+&lt;p&gt;一个会写程序的冰糖&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/dream/wo-xiang&quot;&gt;我想&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on August 25, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[万说]]></title>
+  <link>http://localhost:4000/life/wan-shuo</link>
+  <id>http://localhost:4000/life/wan-shuo</id>
+  <published>2010-08-07T21:30:09+00:00</published>
+  <updated>2010-08-07T21:30:09+00:00</updated>
+  <author>
+    <name>wutao</name>
+    <uri>http://localhost:4000</uri>
+    <email>taowu78@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;By: MuMu+Wan&lt;/p&gt;
+
+&lt;p&gt;“如果别人懂得像我们欣赏彼此一样欣赏我们就好了”&lt;/p&gt;
+
+&lt;p&gt;。。。自信心严重丧失的木表示内流满面。。。&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/wan-shuo&quot;&gt;万说&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on August 07, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[灵性]]></title>
+  <link>http://localhost:4000/life/lingxing</link>
+  <id>http://localhost:4000/life/lingxing</id>
+  <published>2009-12-19T01:06:44+00:00</published>
+  <updated>2009-12-19T01:06:44+00:00</updated>
+  <author>
+    <name>wutao</name>
+    <uri>http://localhost:4000</uri>
     <email>taowu78@gmail.com</email>
   </author>
   <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
 
-&lt;p&gt;“I know who I am.”&lt;/p&gt;
+&lt;p&gt;动物有灵性，且彼此不同，世界才会变得如此奇妙，这话说得太大，本木总被某些童鞋耻笑一直龟缩在自己的弹丸之地毫无“世界眼光”。&lt;/p&gt;
 
-&lt;p&gt;“really?”&lt;/p&gt;
+&lt;p&gt;某80后女作家被本木YY的语文老师称赞其文字“犹如大明湖荷叶上的露珠一样有张力”，于是曾经尝试各种途径搜集该女八卦，经不懈努力，挖掘出其骨灰级的电台录音，深刻感到这些人竟然会对在我眼中干巴巴的文字有那样深刻细腻的感觉，她能从“珏”中看出依赖看出爱，这就是她的灵性吧。&lt;/p&gt;
 
-&lt;p&gt;“I’m your son, I love you, dad.”&lt;/p&gt;
+&lt;p&gt;同样的，几千年前成容若与卢氏探讨哪个汉字最悲伤？&lt;/p&gt;
 
-&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;她说是“若”——“凡‘若’字出现，皆是因为已对某人某事无能为力。这个字，是失意者的自欺欺人，不是将幸福寄托在老朽腐烂、灰飞烟灭的过去，就是期望于深不可测、形迹可疑的未来。当现实无可挽回，任何行动均属浪费，只能在语言中实现憧憬，但无论你的话在语言逻辑上如何天衣无缝，现实总是用超越逻辑的方式证明给你看它有多残酷。”&lt;/p&gt;
 
-&lt;p&gt;直到阿宝对他鹅爸爸说上面这段话的时候我跟丛皓皓才顿悟原来今天是父亲节！！难怪周围突然冒出这么多带着孩子的男人-_-!!!给老爹电话说忙完回电却一直没有等来。。。&lt;/p&gt;
+&lt;p&gt;人生若只如初见。&lt;/p&gt;
 
-&lt;p&gt;半夜失眠，爬起来翻穆斯林的葬礼，看韩子奇每次都只是对女儿讳莫如深的“说些并无实际内容的话，而这些空泛的语言却根本表达不了老父的一颗揉碎的心！”恩，父爱无言，常常觉得父母的苦心是年青的孩子很难体会得全的，只等老了回忆起来追悔当年的自己“太聪明”。。。&lt;/p&gt;
+&lt;p&gt;若没有遗憾，一生不必说“若”；而说再多的“若”，却无法不遗憾。讲得真好。对纳兰容若感兴趣，起初就是因为这个美丽的名字，越读越觉得这只是他瑰丽世界的一瞥，想我若是在后海穿越回去听他们说话，并定像是big bang里头penny听Sheldon他们的知识竞赛一样…古文化真是博大，我越发想做图书管理员了…囧&lt;/p&gt;
 
-&lt;p&gt;最后贴篇麻宁写的父亲，亲切动人，感同身受，聊以纪念，顺道儿希望自己明天可以晚些醒来。。。
-zz（http://blog.sina.com.cn/s/blog_4b90b8bd0100gwb7.html）&lt;/p&gt;
+&lt;p&gt;结论是，人是需要同类的。本木一直觉得自己对数字很有感觉（尽管复杂的算法和PDE总让我很抓狂），所以网名取做一串数字，听说有个“π协会”是做平面设计的，被问到为什么取这个名字，答曰：希望我们的设计灵感如同π一样无限不循环的一直进行下去。恩，说的真好。&lt;/p&gt;
 
-&lt;p&gt;少年时，常觉得他过于苛刻。用一句网络流行的语言来说，就是“全世界的人们都给你青眼，唯独他给你白眼。”&lt;/p&gt;
+&lt;p&gt;p.s.: 按农历算本木跟纳兰兄还是同一天的生日！小激动下&lt;/p&gt;
 
-&lt;p&gt;从不鼓励，甚少肯定，最好的评价无非一句不置可否的“唔”。&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/lingxing&quot;&gt;灵性&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on December 19, 2009.&lt;/p&gt;</content>
+</entry>
 
-&lt;p&gt;报名参加市里的主持人大赛，还未出征他就先奉上打击：“你会什么呀！别去丢人现眼了！”&lt;/p&gt;
 
-&lt;p&gt;作文比赛获了全国性的大奖，一片祝贺声中他泼来冷水：“你写了点什么，人家就给你保送机会？”&lt;/p&gt;
+<entry>
+  <title type="html"><![CDATA[关于目送]]></title>
+  <link>http://localhost:4000/life/musong</link>
+  <id>http://localhost:4000/life/musong</id>
+  <published>2009-10-29T23:22:59+00:00</published>
+  <updated>2009-10-29T23:22:59+00:00</updated>
+  <author>
+    <name>wutao</name>
+    <uri>http://localhost:4000</uri>
+    <email>taowu78@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
 
-&lt;p&gt;就连在元宵灯会上猜谜屡猜屡中人人夸赞心思灵活时，他亦未能赞同：“有点小机灵，为何不用在读书上！”&lt;/p&gt;
+&lt;p&gt;我没有读书的习惯，几乎从不主动去读书。&lt;/p&gt;
 
-&lt;p&gt;于是这些年，我努力地读书，认真地规划自己的生活，完美主义地希望做好每一件事，为的只是得到这个男人的一句肯定——这事物太难得，于我也便太珍贵，值得我的孜孜以求。&lt;/p&gt;
+&lt;p&gt;小时候的各种故事书都是睡觉前妈妈读给我听的，一直到小学毕业。我很懒，从小就是。&lt;/p&gt;
 
-&lt;p&gt;突然有一天，他在都市报的评论版读到我写的时评，特地发短信给我说：“我儿此文甚好。”我竟比得到任何专家学者的首肯还雀跃。&lt;/p&gt;
+&lt;p&gt;看到周围的软件男学术男从C++template到各种paper读得津津有味畅快淋漓时候自己很是惭愧，那样的感觉我也是有过的，大二赶在期末前当我畅读完那本薄薄的模电教材后惊奇的发现原来我一学期来一直都没有搞清楚学的是什么，也顿时觉悟书本里有google不出来的系统化…只是没有压力的环境里我是断然不会去看书的。&lt;/p&gt;
 
-&lt;p&gt;而工作以后，他经常在短信里勉励我：“我儿颇为能干，但要注意身体。”“我儿辛苦了，勿忘劳逸结合。”——是的，他常唤我“我儿”，那不是出于重男轻女思想的称呼，而是因为这么多年，他从来都希望把我当男孩子那样塑造——他告诉我，要独立，自爱，坚强，正直，有责任感，有担当。而他本人，正是那样一个男人。&lt;/p&gt;
+&lt;p&gt;看校内上师弟转的目送，是我能读得下去的文字，很多道理知道却不一定理解理解也不一定能做到，关于目送关于背影，我总对四五年前的自己很追悔莫及。&lt;/p&gt;
 
-&lt;p&gt;也是在工作以后的某一天，母亲才偷偷告诉我，你父亲不喜夸赞你，并非他觉得你不好，而是因为他怕你走得太顺，听得赞美太多，会迷失了自己。他说，他愿意永远做那个唱白脸的人。&lt;/p&gt;
+&lt;p&gt;龙应台坐着父亲的廉价小货车去学校报到的时候，朱自清抱着父亲买来的橘子北上的时候，应该跟我现在差不多大吧，我不知道自己是否已经成熟明了，当三十年之后再回忆起来，会不会也嘲笑现在的自己“太聪明了”。&lt;/p&gt;
 
-&lt;p&gt;听到这一席话的时候，我霎时间泪凝于睫——回头看，他的苦心不是没有道理。他给我树立了一根太高太高的标杆，一心想达标的我纵身一跃，虽然未能博他一笑，却已然符合这社会惯常的标准。&lt;/p&gt;
+&lt;p&gt;不知道是不是有很多人，遇到困难时候，脑海自然浮现“天将降大任于斯人”便精神重新抖擞。而小时候听到的那么多年的童话和寓言，是我心底里最初的美好，在并不那么流畅的成长过程中给我最源头的力量，让我成为现在的我。&lt;/p&gt;
 
-&lt;p&gt;再回想一路走来的历程，他的爱细腻却无言。&lt;/p&gt;
+&lt;p&gt;感谢老妈。&lt;/p&gt;
 
-&lt;p&gt;每一次我和他站在商场里，当我面对两件都喜欢的衣服想要做出抉择时，他会说：“两件都包起来。”——某种程度上说，女儿要从小富养，这样在成年后她才不会为物质的诱惑所迷失灵魂。&lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/musong&quot;&gt;关于目送&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on October 29, 2009.&lt;/p&gt;</content>
+</entry>
 
-&lt;p&gt;研二那年的春节，我以为自己一定会嫁的人一封越洋邮件结束了我们的感情，他会说：“女儿啊，你的头发长了，我陪你去修修吧。”&lt;/p&gt;
 
-&lt;p&gt;本科和硕士的好友随我到家乡玩，他总是异常热情地招待，好友都对我说：“你爸爸真好，看得出来他真爱你。”&lt;/p&gt;
+<entry>
+  <title type="html"><![CDATA[纪念日]]></title>
+  <link>http://localhost:4000/life/jinianri</link>
+  <id>http://localhost:4000/life/jinianri</id>
+  <published>2009-04-23T21:36:58+00:00</published>
+  <updated>2009-04-23T21:36:58+00:00</updated>
+  <author>
+    <name>wutao</name>
+    <uri>http://localhost:4000</uri>
+    <email>taowu78@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
 
-&lt;p&gt;而明明爱一个人，却要板起面孔故作严肃地警醒于她，这样深沉的爱非父亲不能给。&lt;/p&gt;
+&lt;p&gt;纪念&lt;/p&gt;
 
-&lt;p&gt;我渐渐长大了，他开始对我依赖。&lt;/p&gt;
+&lt;p&gt;下雨了&lt;/p&gt;
 
-&lt;p&gt;比如每一次休假回家的时候他都会拉着我不停地说话；&lt;/p&gt;
+&lt;p&gt;地面湿了&lt;/p&gt;
 
-&lt;p&gt;比如乐于向同事炫耀我买给他的东西；&lt;/p&gt;
+&lt;p&gt;地上水多了&lt;/p&gt;
 
-&lt;p&gt;比如喜欢把三口人的合影洗得大大的挂在客厅醒目的位置；&lt;/p&gt;
+&lt;p&gt;渗到地下去了&lt;/p&gt;
 
-&lt;p&gt;比如开始认真地收集整理有我文章的报纸和杂志；&lt;/p&gt;
+&lt;p&gt;触到地下电线了&lt;/p&gt;
 
-&lt;p&gt;……&lt;/p&gt;
+&lt;p&gt;线路很久没检修了&lt;/p&gt;
 
-&lt;p&gt;而有一天，我发现他的眼神里出现了一丝失落，反复思量我才明白症结——我长大了，工作了，拿着比他高的薪水，再也不向他要东西了。虽然我买给他东西他会开心，可是他作为父亲的成就感无从寻觅了。&lt;/p&gt;
+&lt;p&gt;外裹的绝缘皮破裂了&lt;/p&gt;
 
-&lt;p&gt;于是我悄悄地改变了策略，会故意在和他一起逛街的时候，央求他给我买2元一串的冰糖葫芦；会在新年快要到来的时候向他索要新款的手机，然后转身包一个厚厚的红包让母亲转赠他；会在买衣服的时候认真地听取他的意见……&lt;/p&gt;
+&lt;p&gt;遇到渗下来的水了&lt;/p&gt;
 
-&lt;p&gt;如是再三，他的快乐又回来了。&lt;/p&gt;
+&lt;p&gt;连通金属灯杆了&lt;/p&gt;
 
-&lt;p&gt;今天是他的生日，我想告诉他：&lt;/p&gt;
+&lt;p&gt;灯杆通上电了&lt;/p&gt;
 
-&lt;p&gt;爸，我长大了，可你依然不老。我爱你，也希望你能安之若素地享用这份爱。请给我最长的时间和最多的机会吧。&lt;/p&gt;
+&lt;p&gt;被本木抱了&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://ruxubooks.com/ruxu-life/fuqinjie&quot;&gt;父亲节&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://ruxubooks.com&quot;&gt;mistyrain&lt;/a&gt; on June 20, 2011.&lt;/p&gt;</content>
+&lt;p&gt;就触电了&lt;/p&gt;
+
+&lt;p&gt;多久了&lt;/p&gt;
+
+&lt;p&gt;六年&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/jinianri&quot;&gt;纪念日&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on April 23, 2009.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[一架钢琴的时间]]></title>
+  <link>http://localhost:4000/life/yijiagangqindeshijian</link>
+  <id>http://localhost:4000/life/yijiagangqindeshijian</id>
+  <published>2009-04-23T12:33:43+00:00</published>
+  <updated>2009-04-23T12:33:43+00:00</updated>
+  <author>
+    <name>wutao</name>
+    <uri>http://localhost:4000</uri>
+    <email>taowu78@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
+
+&lt;p&gt;用一架钢琴的时间做了一个年轻的尝试，漫漫一程有大家一起也不觉太艰难，最后却还是拍脑袋做了决定，sun说我们还年轻所以没关系。是啊，我们还年轻，有很多机会，很多选择…可是我总觉得自己像是被咬了一口的苹果，无声无息的溃烂下去。&lt;/p&gt;
+
+&lt;p&gt;还有爸妈，很抱歉给你们增添了那么多烦恼，我太年轻还不太懂得如何辨别判断，但却已然超出你们的庇护圈，我要学着对自己负责，要从哪一天起我才能自己做决定，要从哪一天起我才能不在意谁的否定，要从哪一天起我才有自己的道理…&lt;/p&gt;
+
+&lt;p&gt;我更加怀念曾经喧嚣的岁月，跟innoers一起几近为所欲为，创新是我们的乐土。我们做各种各样奇怪有趣的东西，一起应付各种纷乱的杂事，谈论形形色色的人和事，开创byr的circuit像过家家(站务看到要扁我了-_-!)…龙文说，徐硕斌云黄晴孙乐q#在这样的故事里，每个人都可以是主角&lt;/p&gt;
+
+&lt;p&gt;有时候会后悔出来。留下，可以跟云一起调板板每周跑回创新放片子去q家吃小龟做的饭跟万去西站阿福的排练室里长长眼…但是我却出来了，我总是这样，所以总是没有归属感。越长大越发感觉没有什么地方是我的，shh不是，jn也不是，从小待过的每个地方，总有很多地方我没去过，从小到大接触到的圈子，总有很多事情我不知道。04innoers是我的圈子我的地方，但是我却出来了，或许我真的应该在一个地方待的时间久一些，或许这架钢琴的时间并不是像我之前想象的那样白白浪费掉，我喜欢大家在一起，我应该多花时间跟大家在一起。&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/yijiagangqindeshijian&quot;&gt;一架钢琴的时间&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on April 23, 2009.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[和自己斗争]]></title>
+  <link>http://localhost:4000/life/hezijidedouzheng</link>
+  <id>http://localhost:4000/life/hezijidedouzheng</id>
+  <published>2008-01-01T00:30:58+00:00</published>
+  <updated>2008-01-01T00:30:58+00:00</updated>
+  <author>
+    <name>wutao</name>
+    <uri>http://localhost:4000</uri>
+    <email>taowu78@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;by: MuMu&lt;/p&gt;
+
+&lt;p&gt;近两年本木发掘出自己一些个的劣根性——在以李硕丛皓等同学为代表的广大人民群众雪亮的眼睛下一一暴露：倔、纠结、局限、小心眼儿、自闭、妒忌、强烈的独占欲、拒绝新事物凡此种种不一一列举。&lt;/p&gt;
+
+&lt;p&gt;本木第一次爆发是在某年四级过后教三四层空荡荡的教室.丛皓今天回忆说本木看了南方周末就开始狂写狂哭.木有带纸眼泪鼻涕流在一起各种烂糟糟.回来路上过十三楼前还看到某院毕业歌声嘶声裂肺.第二次爆发在某年冬天数学竞赛前.我和丛皓临时抱佛脚在11楼318结果本木一顿狂说狂说…结果俩人第二天在北航都sui掉了.&lt;/p&gt;
+
+&lt;p&gt;有才今天问我07年最难忘的事情是什么,我想半天说是频繁的熬了很多通宵.后来仔细想想是参与制作了红外定位.从那之后才慢慢上了点儿路.06年冬天到07年夏天一直在做这个东西.完完整整地从头到尾回想起来应该是目前为止大学里我做的最有意义的事情了.说来惭愧当初还被李硕同学好说歹说劝了半天才参与进来.最开始方案论证、试验；画板、制板；一趟趟跑中发找小角度的led；级联调试；到最后的装盒；一路走来学到的不仅仅是“可靠性设计”.&lt;/p&gt;
+
+&lt;p&gt;记得那会儿他们一大班的统统跑去自习室复习通原信息论我就在实验室画板子，孙在教三或教九或教二附近背G,我完成一部分就喊他过来检查并且教下一部分,呵呵,当时他已经拿了嵌入式全国一等.加上李硕对其膜拜有加搞得我对他难免有些惧——我还是很欺软怕硬的…后来事实证明孙同学对学生还是很慈祥的…寒假时候我们的板子出来了,兴奋得跑去实调板子,hiboy拿起我的板说像孙的风格我心中一阵窃喜结果他接着说什么这个pad应该设成什么什么铜应该铺成什么什么样…后来我才知道纯论技术还是hiboy更高一筹——到现在亦是如此.&lt;/p&gt;
+
+&lt;p&gt;插一句那年冬天期末的时候,北邮教室空位子一如既往地缺乏,云\鸡精\小黄\我还有李硕就跑去教二五层占位子,他们的通原信息论,我的自控还有数据结构都是在那里搞定的.我们后来总结,由于专业不同考试时间不同还真是好,我的通原信息论都是选修考在前,于是偷偷拿信息论卷子出来给他们,而他们的数据结构在我之前,云\鸡精\大黄\小黄在把他们整理的程序都拷给了我,还有他们发现的选题程序bug：本是每人限选两次删除ie cookie就可以无限选了,到时候就一个个选看哪个会做做哪个…&lt;/p&gt;
+
+&lt;p&gt;06年冬天是农历23号回的家,没有在学校买票,某天早晨6点特别黑特别冷我和小黄跑去北站买的回家车票.最后一晚整个楼就我自己了.外面看去11楼黑隆隆的一片,摸到3层发现楼道口的门居然是关着的！！我当时那个汗呢又寒又汗不过周围木有人自己就也胆子大了起来,上前看锁是挂着的并没锁,推门进去,楼道里一片漆黑,而我又不知道灯的开关在那里！！！又是一阵汗,一路闷头向前,拿手机的光照着摸到寝室,进门开灯锁门爬上床就再也不敢下去了…突然电话响了,起来接电话是老爸,他嘱咐东东西西的我一一应着,刚躺下电话又响了,接起来又是老爸说了一堆事情…我想他老人家是想我了&lt;/p&gt;
+
+&lt;p&gt;07年开学回来就常常跑中发,每周一次,小黄他们做imagine cup要传感器,也每周去,竟然在知春碰到了王浩,呵呵,第一次在北京学校外面碰到高中的人,居然是在知春,我和小黄说那个是我对门儿也做电设的.后来夏天去买料开发票的时候碰到北交的学生我们就上前搭讪,他们也认识王浩,说他是做射频的,后来他们做射频拿了全国二,这个是后话了.我还记得小黄在知春二层一个卖马达的台子前帮人家修网络,因为人家答应小黄修好送他一个小马达就是他们小车上用的,后来那家的网络没弄好马达也没有拿到…呵呵&lt;/p&gt;
+
+&lt;p&gt;关于买小角度led的事情,我吃了很多亏,他们都说中发进门左拐到头的那家的led型号全质量好,我就直奔那里去了,先是买了一堆大角度的不过至少还是红外管子,第二次更扯居然买来一袋子废管…我就哭死了…后来吸取教训一次少些买,效果还是很差..在我基本不报希望的时候却在知春一层发现亿光专柜小角度15度,实验效果甚佳！于是我们就笑了…&lt;/p&gt;
+
+&lt;p&gt;关于小角度管子还要插一句:当初还问了很多人试图寻找其他方法来实现小角度,比如光学方法前面加个透镜.那会儿晚上我在上林sir的选修,忽然想起来他老人家是搞光通信的,就在课间跑上去请教这个问题——唯一一次近距离的和林sir交流,能清楚得看到他两个大小不一的眼睛里的满满的血丝,他听完我的问题,建议我加个光纤头在led头上以提高聚束性(我理解的是这样)然后问我是哪个年级的？在做什么项目？我说是大三的，他说大三就开始做项目了？我已经不记得自己说了什么.然后他给我找了个博士生帮助解决我的问题,后来这个博士师兄给我通了几封邮件给了很多意见但是没有可行性.再后来我就翘掉了林sir的课,最后翘考了,今年林sir就调走了,物是人非小小遗憾但是故事还要继续…&lt;/p&gt;
+
+&lt;p&gt;级联测试时候是春天,实验室很少人来,我们场子铺的很大,占了半个屋子,示波器电源都撂地上,李硕也是坐在地上的(云说郭老师是看见李硕坐在地上才说我们像干活的),郭老师过来看见了说:”这才像干活的！”&lt;/p&gt;
+
+&lt;p&gt;夏天的时候开始了频繁通宵的日子,第一次是红外定位的创新奖初审.我、李硕、孙、还有小黄折腾了一宿.前半夜主要是我小黄勉强算上李硕吧在调试,后半夜孙整箱,让我记忆犹新,不知道从哪弄来的铝盒,先是贴满了绝缘胶,后来一一把零零散散的东西整合进去,装盒,固定天线和摄像头,马上就不一重量级的——结论就是人靠衣裳马靠鞍包装很关键！&lt;/p&gt;
+
+&lt;p&gt;后来就参加初审电院第一晋级,却在终审中被自家兄弟们挤垮了,只拿了三等.不过参与红外的这几个人最后都还算走运.决赛评奖的时候也很搞,放眼望去都是创新自己的人,see-saw本排在第二个,薛舟他们casbam是第一个,我们去的早就先上了,老头们刚吃饱早饭一个个倍儿精神,感觉都还不错，后来定位的时候那个老头问我:”你是老师吧,刚才不是上来过了么？”我就汗了我说我是学生,做了2个题目.大黄说”创新奖的时候非常赶,那时候就我们实验室最积极,都是一帮饿狼,拿创新奖当肉抢了,每个人身上都背着不止一个题目,结果就是时间非常紧张,孙是最赞的一个,最后评委都私底下给他递纸条了,内容忘了,只记得是一个文法院的老爷爷.”孙加上论文一共参与了7个题目,那老爷爷给他递纸条字是竖着写的,从右往左的排版,隐约记得是建议他做个什么什么与老人有关的题目之类的…&lt;/p&gt;
+
+&lt;p&gt;夏天在实验室准备全国赛.我的队友们消失的时间比较长：hiboy06年上半年一直在做intel嵌入式的比赛,那年8月份回上海比赛拿了全国一在家呆了一段时间,上半年身体严重透支,再回学校身体很差了,经常头疼,下半年又参加了Imagine cup的比赛,一直没有闲着过年只在家呆了一周,到暑假之前身体状况都不好,所以暑假他得回家.还有李硕,这个家伙是让人非常的窝火,就是很像二师兄.我曾经和他开玩笑说万一以后我做了博导硕导啥的来个孩子我先问他你爸是谁,如果是叫李硕的一概不要！假期他俩很长时间消失,多亏好心的云、大黄和同样总是晃来晃去的鸡精.假期做过一道题目是无线单工,那时候李硕和hiboy都不在鸡精也随某女私自回家.”最潇洒的就是鸡精了,那几天被一个不知名的小女生弄得团团转,在北京陪吃陪喝陪逛街就算了,最后都陪到跟着回老家了,忍不了(但愿鸡精看了别骂我,呵呵),而且时间把握得极好,就在我们这道题给马博验完的那一天就回来了,整个实验室的都倒下了就他还挺精神,….(是不是说得有点过了,等着他来敲我…).”于是我就跟着云、大黄一起.调啊调.某天老马突然说要验收.大家自觉统一通宵,现在想包括当时想其实是大可不必的,大概是通宵也会上瘾？谁知道呢？反正就是那么毫无意义的通了,云陪仙宁调mc2833.我在试图搞数字部分,极其没有效率,晃晃快到半点,去料屋拿料碰到大黄,于是俩人开始一顿狂侃,一一点评北邮信息的各个实验室和导师,印象极深刻的是小许建伟——陈植一直在一旁听着.貌似聊到快3点,大家互相感慨下这个夜通的是多么多么的没有效率没有意义…于是回去继续调.&lt;/p&gt;
+
+&lt;p&gt;我和云的中心频率都设在30.7m,但是我的发在30.7m收总是30.72左右,所以传出来的声音很杂,到了快四点我和云陈述了下这个事实,云说我的和你的正好反了！于是我俩开始他发我收,电路刚搭起来,喇叭里传出阿信极其清晰的“死了都要爱~不淋漓尽致不痛快~”由于做了音量放大,那声音刚刚的,对面的人都跑来看,各种兴奋,,,现在我每每听到“死了都要爱”就会想起2833,还有仙宁同学的中心频率可调的板子,呵呵，第二天早上验收我还睡过了,被大黄他们狂震爬起来说“赶紧来，老马找你”我就连滚带爬的跑去了……那个时候是各种狼狈…&lt;/p&gt;
+
+&lt;p&gt;夏天的时候出去玩过两次,都有鸡精,一次是和鸡精、云、仙宁骑车回了昌平…去的时候各种冤枉路走了一大堆.各种累屁股很疼.不过昌平物是人非,我和鸡精在篮球场上重温当年初识的情景：背景是某次篮具杯,我俩都在看.忘记谁先开口我就记得“哎呀，你是山东的吧”“我也是山东的！”,我们回顾往事的时候被云拍下来,照片题目叫做“恢复现场-版主和第一水男的相识”……仙宁找他们自己的寝室窗户合影,我和鸡精做在北食堂台阶上看美女.他们说：“介就是青春”-_-!&lt;/p&gt;
+
+&lt;p&gt;还有一次是那之后不久,和小乐、鸡精去簋街吃麻小和烤鱼,话说鸡精各种懒,懒的剥虾皮,最终导致他虾吃得最少,在那儿还看到他想要的XX车(原谅本木索车盲)…过些日子还要带万欣儿去,,,鸡精这个吃才也要去…&lt;/p&gt;
+
+&lt;p&gt;插播“鸡精”名字的由来：首先这个不是我起的,是邵老起的。04信息上过邵志嘉通信原理实验理论课的同学们大概多多少少会有印象,“今天咱们来看个范文,介个是04605班刘鸡精同学的报告,看看这个表格,多高雅！”我就不行了各种不行,而且邵老貌似很偏爱鸡精的风格,堂堂表扬堂堂夸奖！于是堂堂听到鸡精于是我们就跟着他老人家一起喊了.&lt;/p&gt;
+
+&lt;p&gt;顺便插播“小强”由来：&lt;/p&gt;
+
+&lt;p&gt;背景介绍：创新和我一届&amp;amp;部分比我大一届的&amp;amp;小部分比我小一届的会喊我小强。&lt;/p&gt;
+
+&lt;p&gt;赐名人：云&lt;/p&gt;
+
+&lt;p&gt;原因：北京赛,我和李硕一组,我们的作品都是我来焊,并一次成功,云对此表示崇敬于是称强“焊”,后发展为“小强”&lt;/p&gt;
+
+&lt;p&gt;关于小强的故事：小许建伟陈植跑来和我说,给你首歌叫“蟑螂小强”&lt;/p&gt;
+
+&lt;p&gt;关于小强精神：鸡精说小强没了脑袋也能活！鸡精同时又说小强在水里煮30分钟也死不了！所以小强精神就是顽强坚毅.&lt;/p&gt;
+
+&lt;p&gt;中间9月份是全国赛,我们选的C题示波器,貌似是有些难度的,鸡精云和大黄选的数控滤波做的很好也很轻松,仨人儿都没怎么熬夜出来效果很好,第一个级联第一个装箱,我tm熬了两晚上!!后来站都站不起来nnd.再倒回去我还是要选这个题,因为看到hiboy那么努力,他的确是真的喜欢这个,hiboy电脑坚持跑了多久？最后一天早上他把脖子上那个东西一下子扯下来我觉得特别得帅~至于李硕怎么说呢,战略失误,还不能够像云和大黄那么默契吧.下回不能让他只包揽“一切非技术问题”了…&lt;/p&gt;
+
+&lt;p&gt;下面就是保研,北大7月份有开放日李硕孙和我三人一起跑去转了一圈,在咨询处未果,跑去理二楼信科院的楼里面撞进了视觉与听觉实验室——就是我即将去的地方.我是一心想继续模式识别的,别问我为啥我自己也不知道.然后在二楼某屋乱晃的时候撞见了听觉组老大吴xh,我们上前搭讪,后果是他和李硕非常激烈的争辩了一顿！关于街头卖西瓜的大叔的信息熵的问题,那老师说你北邮学生的理论我北大老师还不懂？我仨就绿了…李硕比较能扯.东扯西扯扯到他老本行去,吴搞听觉,听说李硕钢琴8级就说问他你能保研么?我们做音乐方面的研究,你能保我要你,回去联系……各种心惊肉跳,李硕最后到底没有联系他一是他一心想继续在计算机体系结构方面发展,另一方面他个人认为这个老师和他一样有些不太靠谱…这个也是私话了.&lt;/p&gt;
+
+&lt;p&gt;后面的日子就是各种email各种联系各种面试,北邮保研有竞赛加分,加分政策一变再变,于是名次也一变再变,孙从十名外,一路飚长,当了两个小时的第二名,又跌到十名外,李硕同学也是当了两个小时第三名,跌到第五名,跌到第七名??反正一天变好多次,和股票似的,于此同时我的名次一直没有变.值得一提的是,这俩哥们儿趁着名次靠前的时候开了证明把材料分寄到清华北大.后来清华知道孙已经跌出十名外了,清华要求他进前十否则复试资格取消,那些日子就见孙在实验室狂看书看累了站起来逮着墙狂贴超级搞~&lt;/p&gt;
+
+&lt;p&gt;某个周日下午我去北大复试,在遥远的西土城10号,孙\云\黄鹏程做我的后备智囊团,前面人暴出来的问题我不知道的就打电话给他们,他们查阅相关文献后告诉我,等待面试期间施兄还跑来转了两圈,说没关系放心正常发挥没问题.复试的时候有一个女老师逮着我狂问红外定位的问题,毕竟是自己一直在做的东西一一应付得心应手,最后查头问我一个问题让我以最快的速度回答搞得我格外紧张“你的名字有多少划？”“49”虚惊一场.结束后去问结果,那个女老师对我说不错不错答挺好的,后来施兄说那个女老师是搞传感器的对红外会比较敏感…出来门打电话给老爹,说过了复试,他和妈在喝人家喜酒闹哄哄的说“祝贺”.发信息给孙等若干余人.&lt;/p&gt;
+
+&lt;p&gt;已经是十一了,买了周四的票和小猪一起回,夜车.前些天李硕从家拿来几盒月饼说给大家分分,要给我,我说你过了北大复试再给我吧.他管这个叫“巧妙的回绝”我就汗了…周四下午李硕打电话来说孙接到清华微的电话,录了,出来一起聚.我下楼去北门,看见孙和硕士,硕士拿了月饼,我就明白了,我说李硕你也收到通知了吧,他说“我他妈当时就想把这月饼吃了！后来想想还是留下来了.”我得意的笑我得意的笑…后来才知道李硕同学面北大的时候把红外定位都抱过去了…孙说他面清华被一老头鄙视,他现在导师见他做的东西都还漂亮跑上来和他磕了半天数电.”孙这个人不得不提一下,先后干掉了北航,复旦,中科院,北大,最后去了清华微电子,他向来干的都是别人没听过的事情.”&lt;/p&gt;
+
+&lt;p&gt;尘埃落定.&lt;/p&gt;
+
+&lt;p&gt;各回各家各找各妈.&lt;/p&gt;
+
+&lt;p&gt;仔细想想大家离的也不远,鸡精、小黄在融科资讯、他们对面计算所的大黄、保福寺桥往北就是我了吧,然后我在理二二楼李硕在理一八楼话说俩楼还是连着的,理二靠着北大东门,出门过桥就是清华西门,进门一直走一直走一直走就走到孙所在的主楼——我没有地理概念但是感觉是各种近啊~还有大运村应该离保福寺桥更近一些的吧,留下来的出来的大家还是在窝里头打转转……&lt;/p&gt;
+
+&lt;p&gt;话说那天林校长走有人在论坛发帖子说北邮校园虽小但是很有味道,我现在也是很喜欢北邮小而密的布局,那天去北大交材料,李硕说唉你说这里这么大我以后要找你吃饭得在哪见面啊?!&lt;/p&gt;
+
+&lt;p&gt;还是会常常聚,楼上楼.体育馆.金墫.南门小巷各种小吃.&lt;/p&gt;
+
+&lt;p&gt;那是找个理由就聚啊,李硕一开口“难得今儿人这么全”下句就是“咱找个地儿玩一顿去！”呵呵&lt;/p&gt;
+
+&lt;p&gt;孙还是不吃水生类和菌类李硕巨喜欢的冰粥天冷也早关门了.&lt;/p&gt;
+
+&lt;p&gt;那天在实就孙李硕我,孙说什么时候咱仨再合着干点啥…我就想起五月天的孙悟空,孙就是大师兄李硕很像二师兄本木是个纯苦力&lt;/p&gt;
+
+&lt;p&gt;“呵呵,至此,实验室没了往日的喧嚣,只是偶尔有我们几个去那扯谈,一年中剩下的日子也就这么平淡地过去了…&lt;/p&gt;
+
+&lt;p&gt;1月5号实验室招新,看见又是一届小孩快进来了,才发现真的物是人非了,大家都快要离开这个曾经一起奋斗的地方,伴随着新年的钟声,又快回家了”&lt;/p&gt;
+
+&lt;p&gt;今年还参加了班级评优,和有才,最后拿了个第四,反正是有钱的了,陈伟条子苏勒德李凯还有马俊国吃饭喊我俩过去,陈伟说他们毕业的时候班里人俩俩一组连着请全班人吃饭吃了半个月！场场哭得稀里哗啦,条子喝的哇哇的和我说咱们今年要好好搞“感觉一定要到！”这话得记下来…条子是个喝醉酒会哭哭着说我做的不好不是好班长的好班长…条子是在五人制决赛最后一分钟射球进门赢得点球机会的好球员…条子是个己所不欲不施于人的好人…不过话说回来,条子说过的话我就记得两句: 第一句是大一团会上说“我讨厌洗衣服！”第二句就是“感觉一定要到！”&lt;/p&gt;
+
+&lt;p&gt;11月份跑去东北小转了一圈,哈尔滨和大连,出去走走,北京有时候太闷.&lt;/p&gt;
+
+&lt;p&gt;11月底到12月初感冒&lt;/p&gt;
+
+&lt;p&gt;12中旬和万欣儿跑去网通实习.各种遭鄙.保安b看见我们拿起对讲机和保安a说“看见了看见了”我俩就汗了…各种受欺负木有事情做木有饮料爱立信请吃饭也不带我们俩,终于有一天我们遇见了亲人,在07年最后的一个工作日我们亲人带我们一起Friday了真是感动…&lt;/p&gt;
+
+&lt;p&gt;12月底,万欣儿让我明白刀刀那句“快乐是自找的”&lt;/p&gt;
+
+&lt;p&gt;2007年5月4号本木在云的威逼利诱各种怂恿下申请开设了北邮人bbs的电子电路版.至今过半年.2008年1月1号晚9点本木于大食堂一层bg全版.认识本木的不认识本木的喜欢电路的讨厌电路的都欢迎&lt;/p&gt;
+
+&lt;p&gt;祝大家2008有奔头&lt;/p&gt;
+
+&lt;p&gt;继续和自己斗争&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/life/hezijidedouzheng&quot;&gt;和自己斗争&lt;/a&gt; was originally published by wutao at &lt;a href=&quot;http://localhost:4000&quot;&gt;mistyrain&lt;/a&gt; on January 01, 2008.&lt;/p&gt;</content>
 </entry>
 
 </feed>
