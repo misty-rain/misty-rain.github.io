@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 如许读书
+title: 岁月如歌
 description: "问渠哪得清如许 唯有源头活水来"
 headline: An Personal Diary
 tags: [ruxu-life, ruxu-reading, ruxu-travel]
@@ -94,7 +94,7 @@ tags: [ruxu-life, ruxu-reading, ruxu-travel]
 	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>&nbsp;<span class="post-tags">by {{ site.owner.name }}</span>
 	                        <div class="post-body bordered-bottom"></div>
 	                    </div>
-	                </header>    
+	                </header>
 	            </article>
 	        </div>
 	        {% endif %}
@@ -225,7 +225,7 @@ tags: [ruxu-life, ruxu-reading, ruxu-travel]
 {% endif %}
 {% endif %}
     <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
- {% if paginator.next_page %}   
+ {% if paginator.next_page %}
         <a class="older-posts" href="{{ site.url }}/page{{ paginator.next_page }}">Older Posts &rarr;</a>
  {% endif %}
 </nav>
@@ -317,7 +317,7 @@ tags: [ruxu-life, ruxu-reading, ruxu-travel]
 	                        in <span class="post-tags">{% for tag in post.categories %}<a href="{{ site.url }}/categories/index.html#{{ post.categories | cgi_encode }}" data-toggle="tooltip" title="Other posts from the {{ tag | capitalize }} category" rel="tag">{{ tag | capitalize }}</a>{% unless forloop.last %}&nbsp;&bull;&nbsp;{% endunless %}{% endfor %}</span>&nbsp;<span class="post-tags">by {{ site.owner.name }}</span>
 	                        <div class="post-body bordered-bottom"></div>
 	                    </div>
-	                </header>    
+	                </header>
 	            </article>
 	        </div>
 	        {% endif %}
@@ -433,5 +433,5 @@ tags: [ruxu-life, ruxu-reading, ruxu-travel]
 	            </article>
 	        </div>
 			{% endif %}
-	{% endfor %}  
+	{% endfor %}
 {% endif %}

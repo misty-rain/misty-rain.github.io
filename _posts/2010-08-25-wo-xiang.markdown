@@ -3,8 +3,8 @@ layout: post
 type: blog
 title:  "我想"
 date:   2010-08-25 18:40:58
-categories: ruxu-life
-tags: [ruxu-life]
+categories: Dream
+tags: [梦想]
 
 comments: true
 share: true

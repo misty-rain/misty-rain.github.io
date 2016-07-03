@@ -2,8 +2,8 @@
 layout: post
 title:  "周末小结之关于艺术"
 date:   2011-04-19 17:14:53
-categories: ruxu-life
-tags: [ruxu-life]
+categories: life
+tags: [思考]
 
 comments: true
 share: true
