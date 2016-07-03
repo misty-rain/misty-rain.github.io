@@ -9,6 +9,7 @@ comments: true
 share: true
 ---
 by: MuMu
+转载MuMu姐，^_^ ^_~
 
 万给我看了小崔姐姐的豆瓣（http://site.douban.com/cicikingg/）说她辞掉工作跑去midi当老师真正实现了把音乐当主业成为当年北方到目前为止的最摇滚的一个。我为此激动不已虽说她压根儿不知道我这号人的存在。
 

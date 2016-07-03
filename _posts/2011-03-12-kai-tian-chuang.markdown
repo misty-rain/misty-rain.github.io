@@ -9,7 +9,7 @@ tags: [思考]
 comments: true
 share: true
 ---
-By: MuMu
+By: Mistyrain
 
 一辈子如果只让你做一件事情，你会选择做什么？
 

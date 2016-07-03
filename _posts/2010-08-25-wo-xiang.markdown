@@ -9,7 +9,7 @@ tags: [梦想]
 comments: true
 share: true
 ---
-By: MuMu
+By: Mistyrain
 
 我想当一个萝卜
 
@@ -30,10 +30,6 @@ By: MuMu
 我想当一个鼓手
 
 一个会写程序的鼓手
-
-我想当一个主妇
-
-一个会写程序的主妇
 
 我想当一个幼儿园老师
 
